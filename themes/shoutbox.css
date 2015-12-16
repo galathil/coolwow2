@@ -1,0 +1,26 @@
+#shoutbox {
+	border:1px solid #fff;
+	width: 100%;
+}
+#shoutbox_content {
+	background-color:#fff;
+	height:300px;
+	text-align: left;
+	overflow:auto;
+	background-image : url(1/bg.jpg);
+	background-repeat: repeat;
+	padding: 5px
+}
+#shout_nick {
+	width:100px
+}
+.shout_nick {
+	font-weight:bold;
+	font-size : 12px;
+}
+.shout_msg {
+	color:#fff
+}
+p.shoutbox{
+color:  #fff
+}

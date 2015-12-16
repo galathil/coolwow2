@@ -1,0 +1,118 @@
+body, html{
+font : 80% "Segoe UI", "Trebuchet MS";
+font-size : 14px;
+color : #000;
+background : url(../../../themes/BC/images/bg3.gif);
+background-attachment : fixed;
+background-repeat: repeat;
+background-color : #000;
+}
+.center {
+text-align: center;
+}
+.centre {
+  margin-left: auto;
+  margin-right: auto;
+}
+.title {
+text-align: center;
+background : none;
+color : #565656;
+font-size : 16px;
+font-weight : bold;
+text-decoration : none;
+}
+div.banner{
+    background: url('../../../themes/BC/images/banner.png');
+}
+div.font{
+        background: url('../../../themes/BC/images/search/tip-bg1.gif') repeat;
+		width: 600px;
+		height: 300px;
+		margin-left: auto;
+		margin-right: auto;
+}
+div.gauche{
+    background: url('../../../themes/BC/images/search/tip-left.gif') left repeat-y;
+}
+div.droite{
+    background: url('../../../themes/BC/images/search/tip-right.gif') right repeat-y;
+}
+div.haut{
+        background: url('../../../themes/BC/images/search/tip-top.gif') top repeat-x;
+        height: 13px;
+}
+div.bas{
+        background: url('../../../themes/BC/images/search/tip-bot.gif') bottem repeat-x;
+        height: 13px;
+}
+div.hg{
+        background: url('../../../themes/BC/images/search/tip-top-left.gif') left top no-repeat;
+        padding-left: 13px;
+}
+div.hd{
+        background: url('../../../themes/BC/images/search/tip-top-right.gif') right top no-repeat;
+        padding-right: 13px;
+}
+div.bg{
+        background: url('../../../themes/BC/images/search/tip-bot-left.gif') left bottom no-repeat;
+		padding-left: 13px;
+}
+div.bd{
+        background: url('../../../themes/BC/images/search/tip-bot-right.gif') right bottom no-repeat;
+		padding-right: 13px;
+}
+div.element_menu{
+        background: url('../../../themes/BC/images/search/colored-parch-bg.jpg') repeat;
+		width: 500px;
+		margin-left: auto;
+		margin-right: auto;
+}
+div.element_menu2{
+        background: url('../../../themes/BC/images/search/cp-top.jpg') top repeat-x;
+}
+div.element_menu3{
+        background: url('../../../themes/BC/images/search/cp-bot.jpg') bottom repeat-x;
+}
+div.element_menu4{
+		background: url('../../../themes/BC/images/search/cp-left.jpg') left repeat-y;
+}
+div.element_menu5{
+		background: url('../../../themes/BC/images/search/cp-right.jpg') right repeat-y;
+}
+div.coin_hg{
+        background: url('../../../themes/BC/images/search/cp-top-left.png') left top no-repeat;
+        padding-left: 103px;
+}
+div.coin_hd{
+        background: url('../../../themes/BC/images/search/cp-top-right.png') right top no-repeat;
+        padding-right: 88px;
+}
+div.bordure_h
+{
+        background: url('../../../themes/BC/images/search/cp-top.jpg') top repeat-x;
+        height: 88px;
+}
+div.cote_gauche{
+    background: url('../../../themes/BC/images/search/cp-left.jpg') left repeat-y;
+    padding-left: 150px;
+}
+div.cote_droit{
+    background: url('../../../themes/BC/images/search/cp-right.jpg') right repeat-y;
+    overflow: hidden;
+}
+div.milieu{
+        background: url('../../../themes/BC/images/search/colored-parch-bg.jpg') right bottom no-repeat;
+}
+div.coin_bg{
+        background: url('../../../themes/BC/images/search/cp-bot-left.png') left bottom no-repeat;
+		padding-left: 92px;
+}
+div.coin_bd{
+        background: url('../../../themes/BC/images/search/cp-bot-right.png') right bottom no-repeat;
+		padding-right: 73px;
+}
+div.bordure_b{
+        background: url('../../../themes/BC/images/search/cp-bot.jpg') bottom repeat-x;
+        height: 77px;
+}

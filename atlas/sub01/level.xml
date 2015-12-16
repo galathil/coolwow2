@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?> 
+	<CHANNEL>
+	<FILE filename="level.swf" swftitle="level">
+<ITEM id="m0" text="Raz-de-Néant"/>
+<ITEM id="m1" text="Les Tranchantes"/>
+<ITEM id="m2" text="Marécage de Zangar"/>
+<ITEM id="m3" text="Péninsule des Flammes infernales"/>
+<ITEM id="m4" text="Nagrand"/>
+<ITEM id="m5" text="Foret de Terokkar"/>
+<ITEM id="m6" text="Vallée déOmbrelune"/>
+<ITEM id="l0" text="Teldrassil"/>
+<ITEM id="l1" text="Ile de Brume-sang"/>
+<ITEM id="l2" text="Ile de Brume-azur"/>
+<ITEM id="l3" text="Sombrivage"/>
+<ITEM id="l4" text="Reflet-de-Lune"/>
+<ITEM id="l5" text="Gangrebois"/>
+<ITEM id="l6" text="Berceau-de-l'Hiver"/>
+<ITEM id="l7" text="Orneval"/>
+<ITEM id="l8" text="Azshara"/>
+<ITEM id="l9" text="Les Serres-Rocheuses"/>
+<ITEM id="l10" text="Les Tarides"/>
+<ITEM id="l11" text="Durotar"/>
+<ITEM id="l12" text="Désolace"/>
+<ITEM id="l13" text="Mulgore"/>
+<ITEM id="l14" text="Marécage d'Aprefange"/>
+<ITEM id="l15" text="Féralas"/>
+<ITEM id="l16" text="Mille pointes"/>
+<ITEM id="l17" text="Silithus"/>
+<ITEM id="l18" text="Cratère d'Un'Goro"/>
+<ITEM id="l19" text="Tanaris"/>
+<ITEM id="n0" text="Bois des chants éternels"/>
+<ITEM id="n1" text="Les Terres fantomes"/>
+<ITEM id="n2" text="Clairières de Tirisfal"/>
+<ITEM id="n3" text="Maleterres de l'ouest"/>
+<ITEM id="n4" text="Maleterres de l'est"/>
+<ITEM id="n5" text="Forêt des Pins argentés"/>
+<ITEM id="n6" text="Montagnes d'Alterac"/>
+<ITEM id="n7" text="Contreforts de Hautebrande"/>
+<ITEM id="n8" text="Les Hinterlands"/>
+<ITEM id="n9" text="Hautes-terres d'Arathi"/>
+<ITEM id="n10" text="Les Paluns"/>
+<ITEM id="n11" text="Dun Morogh"/>
+<ITEM id="n12" text="Loch Modan"/>
+<ITEM id="n13" text="Gorge des Vents brulants"/>
+<ITEM id="n14" text="Steppes ardentes"/>
+<ITEM id="n15" text="Terres ingrates"/>
+<ITEM id="n16" text="Foret d'Elwynn"/>
+<ITEM id="n17" text="Les Carmines"/>
+<ITEM id="n18" text="Marche de l'Ouest"/>
+<ITEM id="n19" text="Bois de la Pénombre"/>
+<ITEM id="n20" text="Défilé de Deuillevent"/>
+<ITEM id="n21" text="Marais des Chagrins"/>
+<ITEM id="n22" text="Vallée de Strangleronce"/>
+<ITEM id="n23" text="Terres foudroyées"/>
+</FILE>
+</CHANNEL>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<CHANNEL>
+<FILE filename="move_horde.swf" swftitle="move_horde">
+<ITEM id="m0" text="L'escalier du Destin"/>
+<ITEM id="m1" text="Orgrimmar"/>
+<ITEM id="m2" text="Cabestan"/>
+<ITEM id="m3" text="Bastion de Pennelune"/>
+<ITEM id="m4" text="Féralas"/>
+<ITEM id="m5" text="Lune d'argent"/>
+<ITEM id="m6" text="Fossoyeuse"/>
+<ITEM id="m7" text="Grom'gol"/>
+<ITEM id="m8" text="La Porte des ténèbres"/>
+<ITEM id="m9" text="Baie-du-Butin"/>
+</FILE>
+</CHANNEL>

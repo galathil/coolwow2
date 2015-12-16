@@ -1,0 +1,58 @@
+	<CHANNEL>
+	<FILE filename="move_alliance.swf" swftitle="move_alliance">
+<ITEM id="m0" text="La Foudreflèche"/>
+<ITEM id="m1" text="Cosmovrille"/>
+<ITEM id="m2" text="Zone 52"/>
+<ITEM id="m3" text="Bosquet éternel"/>
+<ITEM id="m4" text="Poste de Toshley"/>
+<ITEM id="m5" text="Sylvanaar"/>
+<ITEM id="m6" text="L'escalier du Destin"/>
+<ITEM id="m7" text="Halte du Fracas"/>
+<ITEM id="m8" text="Bastion de l'Honneur"/>
+<ITEM id="m9" text="Temple de Telhamat"/>
+<ITEM id="m10" text="Telredor"/>
+<ITEM id="m11" text="Havre d'Orebor"/>
+<ITEM id="m12" text="Autel de Sha'tar"/>
+<ITEM id="m13" text="Sanctum des étoiles"/>
+<ITEM id="m14" text="Bastion des Marteaux-hardis"/>
+<ITEM id="m15" text="Bastion all'rien"/>
+<ITEM id="m16" text="Shattrath"/>
+<ITEM id="m17" text="Telaar"/>
+<ITEM id="l0" text="Rut'theran"/>
+<ITEM id="l1" text="Guet du sang"/>
+<ITEM id="l2" text="Exodar"/>
+<ITEM id="l3" text="Auberdine"/>
+<ITEM id="l4" text="Clairière de Griffebranche"/>
+<ITEM id="l5" text="Reflet-de-Lune"/>
+<ITEM id="l6" text="Long-guet"/>
+<ITEM id="l7" text="Pic des Serres-Rocheuses"/>
+<ITEM id="l8" text="Astranaar"/>
+<ITEM id="l9" text="Sanctuaire d'émeraude"/>
+<ITEM id="l10" text="Chant des forêts"/>
+<ITEM id="l11" text="Halte de Talrendis"/>
+<ITEM id="l12" text="Combe de Nijel"/>
+<ITEM id="l13" text="Cabestan"/>
+<ITEM id="l14" text="Bastion de Pennelune"/>
+<ITEM id="l15" text="Thalanaar"/>
+<ITEM id="l16" text="Ile de Theramore"/>
+<ITEM id="l17" text="Fort cénarien"/>
+<ITEM id="l18" text="Refuge des Marshal"/>
+<ITEM id="l19" text="Gadgetzan"/>
+<ITEM id="n1" text="Chapelle de l'Espoir de Lumière"/>
+<ITEM id="n2" text="Camp du Noroît"/>
+<ITEM id="n3" text="Nid-de-l'Aigle"/>
+<ITEM id="n4" text="Austrivage"/>
+<ITEM id="n5" text="Refuge de l'Ornière"/>
+<ITEM id="n6" text="Port de Menethil"/>
+<ITEM id="n7" text="Forgefer"/>
+<ITEM id="n8" text="Thelsamar"/>
+<ITEM id="n9" text="Halte du Thorium"/>
+<ITEM id="n10" text="Veille de Morgan"/>
+<ITEM id="n11" text="Hurlevent"/>
+<ITEM id="n12" text="Comté-du-lac"/>
+<ITEM id="n13" text="Colline des sentinelles"/>
+<ITEM id="n14" text="Sombre-comté"/>
+<ITEM id="n15" text="Rempart-du-Néant"/>
+<ITEM id="n16" text="Baie-du-Butin"/>
+</FILE>
+</CHANNEL>

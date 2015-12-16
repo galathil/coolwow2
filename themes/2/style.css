@@ -1,0 +1,68 @@
+body, html {
+background: url('../../images/tdm.jpg') top center no-repeat;
+background-color : #000;
+background-attachment: fixed;
+color: #fff;
+width: 100%;
+height: 100%;
+margin:0px;
+padding:0px;
+border: 0px;
+margin-left: auto;
+margin-right: auto;
+cursor: url('./images/cursor/cursor.cur'), default;
+}
+a{
+	cursor: url('./images/cursor/cursor2.ani'), default;
+}
+#menu{
+background: url('../../images/menu.png') top center no-repeat;
+width: 967px;
+height: 66px;
+margin-left: auto;
+margin-right: auto;
+}
+#logo{
+background: url('../../images/logo.png') top center no-repeat;
+width: 366px;
+height: 181px;
+margin-left: auto;
+margin-right: auto;
+}
+#centre{
+margin-left: auto;
+margin-right: auto;
+width: 500px;
+}
+#test{
+top: 0px;
+}
+td.hm{
+background-image : url('../2/hm.png');
+background-repeat: repeat-x;
+border: 0px;
+}
+td.mg{
+background-image : url('../2/mg.png');
+background-repeat: repeat-y;
+border: 0px;
+}
+td.md{
+background-image : url('../2/md.png');
+background-repeat: repeat-y;
+border: 0px;
+}
+td.bm{
+background-image : url('../2/bm.png');
+background-repeat: repeat-x;
+border: 0px;
+}
+.fond {
+background-image : url('../2/bg.jpg');
+background-repeat: repeat;
+}
+TD {
+filter:alpha(opacity=90);
+-moz-opacity: .90;
+opacity:0.90;
+}

@@ -1,0 +1,25 @@
+area { cursor:pointer; }
+.toolBoxStyle{
+	position:absolute; 
+	top:20px; 
+	color:#FFFFFF; 
+	background:url(http://www.wow-europe.com/shared/wow-com/images/basics/bcattunement/trans.png); 
+	border:1px solid #DDDDDD; 
+	font-family:Arial, Helvetica, sans-serif; 
+	padding:6px; 
+	padding-bottom:15px; 
+	font-size:12px; 
+	border-bottom-color:#666666; 
+	border-right-color:#666666; 
+	display:none;
+	width:250px;					
+}
+.toolBoxStyle div { position:relative; }
+.toolBoxStyle .myRight { position:absolute; right:6px;  }
+.toolBoxStyle .myGreen { display:inline; color:#00FF00; }
+.toolBoxStyle .myRed { display:inline; color:#FF0000; }
+.toolBoxStyle b { color:#CC9933; font-size:14px; display:block; }
+.toolBoxStyle .questStyle { color:#CC9933; }
+.toolBoxStyle .mySmall { color:#FF0000; font-size:11px; }
+.coverDivStyle1 { width:120px; height:75px; display:none; position:absolute; background:url(/shared/wow-com/images/layout/pixel.gif); z-index:50; }
+.coverDivStyle2 { width:100px; height:55px; display:none; position:absolute; background:url(/shared/wow-com/images/layout/pixel.gif); z-index:50; }

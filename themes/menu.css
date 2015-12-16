@@ -1,0 +1,88 @@
+/* ================================================================ 
+This copyright notice must be kept untouched in the stylesheet at 
+all times.
+
+The original version of this stylesheet and the associated (x)html
+is available at http://www.cssplay.co.uk/menus/pro_drop6.html
+Copyright (c) 2005-2007 Stu Nicholls. All rights reserved.
+This stylesheet and the associated (x)html may be modified in any 
+way to fit your requirements.
+=================================================================== */
+
+#nav {
+padding:0;
+margin:0;
+list-style:none; 
+height:38px; 
+position:relative; 
+z-index:200; 
+font-family:arial, verdana, sans-serif;
+}
+#nav li.top {display:block; float:left;}
+#nav li a.top_link {display:block; float:left; height:35px; line-height:33px; color:#fff; text-decoration:none; font-size:11px; font-weight:bold; padding:0 0 0 4px; cursor:pointer;}
+#nav li a.top_link span {float:left; display:block; padding:0 24px 0 12px; height:35px;}
+#nav li a.top_link span.down {float:left; display:block; padding:0 24px 0 12px; height:35px;}
+
+#nav li:hover a.top_link,
+#nav a.top_link:hover
+{color:#ffee40;}
+#nav li:hover a.top_link span, 
+#nav a.top_link:hover span
+{
+}
+#nav li:hover a.top_link span.down,
+#nav a.top_link:hover span.down
+{padding-bottom:3px;}
+
+#nav table {border-collapse:collapse; padding:0; margin:0; position:absolute; left:0; top:0;}
+
+#nav li:hover {position:relative; z-index:100;}
+#nav a:hover {position:relative; white-space:normal; z-index:200;}
+
+#nav :hover ul.sub
+{left:1px; top:38px; background: #21497c; padding:5px; border:1px solid #000; white-space:nowrap; width:150px; height:auto; z-index:300;
+}
+
+/* FireFox */
+html:not([lang*=""]) #nav :hover ul.sub
+{left:1px; top:38px; background: #21497c; padding:5px; border:1px solid #000; white-space:nowrap; width:150px; height:auto; z-index:300;
+-moz-border-radius:5px;
+filter:alpha(opacity=90);
+-moz-opacity:.90;
+opacity:0.90;
+}
+
+#nav :hover ul.sub li
+{display:block; height:20px; position:relative; float:left; width:150px; font-weight:normal;}
+#nav :hover ul.sub li a
+{display:block; font-size:11px; height:20px; width:148px; line-height:18px; text-indent:5px; color:#fff; text-decoration:none;}
+#nav li ul.sub li a.fly
+{background:#21497c url(../images/arrow.gif) 140px 6px no-repeat;}
+#nav :hover ul.sub li a:hover 
+{background:#000; color:#fff; border-color:#fff;}
+#nav :hover ul.sub li a.fly:hover
+{background:#000 url(../images/arrow_over.gif) 140px 6px no-repeat; color:#fff;}
+
+#nav li b {display:block; font-size:11px; height:18px; width:148px; line-height:18px; margin-bottom:0px; text-indent:6px; color:#ff6; border-bottom:1px solid #ff6; cursor:default;}
+
+#nav a:hover a:hover ul,
+#nav a:hover a:hover a:hover ul,
+#nav a:hover a:hover a:hover a:hover ul,
+#nav a:hover a:hover a:hover a:hover a:hover ul
+{left:149px; top:-4px; background: #21497c; padding:3px; border:1px solid #000; white-space:nowrap; width:150px; z-index:400; height:auto;}
+
+#nav ul, 
+#nav a:hover ul ul,
+#nav a:hover a:hover ul ul,
+#nav a:hover a:hover a:hover ul ul,
+#nav a:hover a:hover a:hover a:hover ul ul
+{position:absolute; left:-9999px; top:-9999px; width:0; height:0; margin:0; padding:0; list-style:none;}
+
+#nav li:hover li:hover > ul
+{left:150px; top:-4px; background: #21497c; padding:3px; border:1px solid #000; white-space:nowrap; width:150px; z-index:400; height:auto;}
+#nav li:hover > ul ul 
+{position:absolute; left:-9999px; top:-9999px; width:0; height:0; margin:0; padding:0; list-style:none;}
+#nav li:hover li:hover > a.fly
+{background:#000 url(../images/arrow_over.gif) 150px 6px no-repeat; color:#fff; border-color:#000;} 
+#nav li:hover li:hover > li a.fly
+{background:#000 url(../images/arrow_over.gif) 140px 6px no-repeat; color:#000; border-color:#000;} 

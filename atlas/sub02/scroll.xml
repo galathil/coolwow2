@@ -1,0 +1,1191 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<CHANNEL>
+	<FILE filename='outlandnagrand.swf' swftitle='?'>
+		<ITEM id='a1' text='Telaar'>
+<![CDATA[<font color='#81a408'><b>Telaar (Alliance)</b></font><br/><font color='#797c58'>Auberge, boîte aux lettres, maître de vol, maître des écuries, intendant, forgeron, fournitures de forgeron, fournitures générales, poisons & composants, fournitures d’artisanat, fournitures de cuisinier, enclume</font>]]>
+		</ITEM>
+
+		<ITEM id='a2' text='Point d’ancrage Aeris'>
+<![CDATA[<font color='#81a408'><b>Point d’ancrage Aeris (Neutre)</b></font><br/><font color='#797c58'></font>]]>
+		</ITEM>
+
+		<ITEM id='a3' text='L’arène de sang'>
+
+<![CDATA[<font color='#81a408'><b>L’arène de sang (Neutre)</b></font><br/><font color='#797c58'></font>]]>
+		</ITEM>
+
+		<ITEM id='a4' text='Safari de Nesingwary'>
+<![CDATA[<font color='#81a408'><b>Safari de Nesingwary (Neutre)</b></font><br/><font color='#797c58'></font>]]>
+		</ITEM>
+
+		<ITEM id='a5' text='L’arène des épreuves'>
+<![CDATA[<font color='#81a408'><b>L’arène des épreuves (Neutre)</b></font><br/><font color='#797c58'>Organisateur de combats, maître de l’arène</font>]]>
+		</ITEM>
+
+		<ITEM id='a6' text='Garadar'>
+
+<![CDATA[<font color='#81a408'><b>Garadar (Horde)</b></font><br/><font color='#797c58'>Auberge, boîte aux lettres, maître de vol, maître des écuries, intendant, fournitures générales, poisons & composants, forgeron, fournitures de forgeron, fournitures d’artisanat, forge, enclume</font>]]>
+		</ITEM>
+
+		<ITEM id='a7' text='Halaa'>
+<![CDATA[<font color='#81a408'><b>Halaa (JcJ en extérieur)</b></font><br/><font color='#797c58'>Intendant, vendeur de munitions, marchand de nourriture & boissons, marchand de lames</font>]]>
+		</ITEM>
+	</FILE>
+
+
+		<FILE filename='outlandshattrath.swf' swftitle='Shattrath'>
+		<ITEM id='a1' text='Shattrath'>
+
+<![CDATA[<font color='#81a408'><b>Shattrath</b></font><br/><font color='#797c58'>1. Marchande de gemmes de l’Aldor; 2. Maître des joailliers; 3. Laboratoire d’alchimie; 4. Alchimiste; 5. Banque de l’Aldor; 6. Boîte aux lettres de l’Aldor; 7. Maître des premiers soins; 8. Maîtres de guerre de l’Alliance; 9. Taverne de la fin du monde; 10. Maître de vol; 11. Maître des forgerons; 12. Boîte aux lettres de l’Aldor; 13. Aubergiste de l’Aldor; 14. Maître des écuries de l’Aldor; 15. Maître de guerre & maître de l’arène de la Horde; 16. Boîte aux lettres des Clairvoyants; 17. Banque des Clairvoyants; 18. Maître des dépeceurs; 19. Maître des artisans du cuir; 20. Maître des cuisiniers; 21. Métier à tisser le mana; 22. Écuries des Clairvoyants; 23. Boîte aux lettres de l’auberge des Clairvoyants; 24. Auberge des Clairvoyants; 25. Marchand de gemmes des Clairvoyants; 26. Maître des enchanteurs</font>]]>
+		</ITEM>
+	</FILE>
+
+
+		<FILE filename='outlandshadowmoon.swf' swftitle='Vallée d’Ombrelune'>
+		<ITEM id='a1' text='Vallée d’Ombrelune'>
+<![CDATA[<font color='#81a408'><b>Vallée d’Ombrelune (Horde)</b></font><br/><font color='#797c58'>Auberge, boîte aux lettres, maître de vol, maître des écuries, grand maître des forgerons, instructeur de monte, marchand de nourriture & boissons, fournitures générales, fournitures d’artisanat, fournitures de forgeron, marchand de montures volantes, fabricant d’armes, fabricant d’arcs & armes à feu, forge, enclume</font>]]>
+		</ITEM>
+
+		<ITEM id='a2' text='Autel de Sha’tar'>
+
+<![CDATA[<font color='#81a408'><b>Autel de Sha’tar (Aldor)</b></font><br/><font color='#797c58'>Auberge, boîte aux lettres, maître de vol, fournitures générales, fournitures de forgeron, fournitures d’artisan du cuir, marchand de nourriture & boissons, fabricant d’armes</font>]]>
+		</ITEM>
+
+		<ITEM id='a3' text='Sanctum des Étoiles'>
+<![CDATA[<font color='#81a408'><b>Sanctum des Étoiles (Clairvoyants)</b></font><br/><font color='#797c58'>Auberge, boîte aux lettres, maître de vol, fournitures générales, fournitures de forgeron, marchand d’armures, fournitures de tailleur, marchand de nourriture & boissons</font>]]>
+		</ITEM>
+
+		<ITEM id='a4' text='Ferme d’Oronok'>
+<![CDATA[<font color='#81a408'><b>Ferme d’Oronok (Neutre)</b></font><br/><font color='#797c58'>Fournitures générales</font>]]>
+		</ITEM>
+
+		<ITEM id='a5' text='Bastion des Marteaux-hardis'>
+
+<![CDATA[<font color='#81a408'><b>Bastion des Marteaux-hardis (Alliance)</b></font><br/><font color='#797c58'>Auberge, boîte aux lettres, maître de vol, maître des écuries, instructeur de monte, fournitures de cuisinier, maître des cuisiniers, fournitures générales, armurier, forgeur de marteaux, forge, enclume, fournitures d’artisanat, marchand de griffons </font>]]>
+		</ITEM>
+
+		<ITEM id='a6' text='Le Temple noir'>
+<![CDATA[<font color='#81a408'><b>Le Temple noir (Donjon)</b></font><br/><font color='#797c58'>25 joueurs maximum<br/>Niveau 70<br/></font>]]>
+		</ITEM>
+
+		<ITEM id='a7' text='Halaa'>
+<![CDATA[<font color='#81a408'><b>Halaa (JcJ en extérieur)</b></font><br/><font color='#797c58'>Intendant, vendeur de munitions, marchand de nourriture & boissons, marchand de lames</font>]]>
+		</ITEM>
+	</FILE>
+
+
+	<FILE filename='outlandzangarmarsh.swf'  swftitle='Marécage de Zangar'>
+		<ITEM id='a1' text='Sporeggar'>
+<![CDATA[<font color='#81a408'><b>Sporeggar (Neutre)</b></font><br/><font color='#797c58'>Intendant de Sporeggar (Vous devez être au moins amical avec les Sporeggar pour qu'il répare votre équipement.)</font>]]>
+		</ITEM>
+
+		<ITEM id='a2' text='Zabra’jin'>
+<![CDATA[<font color='#81a408'><b>Zabra’jin (Horde)</b></font><br/><font color='#797c58'>Auberge, boîte aux lettres, maître de vol, maître des écuries, marchand de composants, forge, enclume, grand maître ingénieur, fournitures d’artisanat, maître des pêcheurs, réparations d’objets</font>]]>
+		</ITEM>
+
+		<ITEM id='a3' text='Havre d’Orebor'>
+
+<![CDATA[<font color='#81a408'><b>Havre d’Orebor (Alliance)</b></font><br/><font color='#797c58'>Auberge, boîte aux lettres, maître de vol, marchand d’armures, fournitures de tailleur, fournitures de cuisinier, marchand de poison</font>]]>
+		</ITEM>
+
+		<ITEM id='a4' text='Telredor'>
+<![CDATA[<font color='#81a408'><b>Telredor (Alliance)</b></font><br/><font color='#797c58'>Auberge, boîte aux lettres, maître de vol, maître des écuries, grand maître ingénieur, armurier, marchand de composants, fournitures d’alchimie, forge, enclume</font>]]>
+		</ITEM>
+
+		<ITEM id='a5' text='Refuge cénarien'>
+<![CDATA[<font color='#81a408'><b>Refuge cénarien (Neutre)</b></font><br/><font color='#797c58'>Auberge, boîte aux lettres, maître des écuries, puits de lune, fournitures de cuisinier, marchand de poissons & fournitures, intendant de l’Expédition cénarienne, fournitures générales, forge, enclume</font>]]>
+		</ITEM>
+
+		<ITEM id='a6' text='Poste du Rat des marais'>
+
+<![CDATA[<font color='#81a408'><b>Poste du Rat des marais (Horde)</b></font><br/><font color='#797c58'>Maître de vol, marchand de composants, fournitures générales</font>]]>
+		</ITEM>
+
+		<ITEM id='a7' text='Réservoir de Glissecroc'>
+<![CDATA[<font color='#81a408'><b>Réservoir de Glissecroc (Donjon)</b></font><br/><font color='#797c58'><font color='#c49609'>Les enclos aux esclaves</font><br/>5 joueurs maximum<br/>Niveaux 62-64<br/>Héroïque : requiert l’Expédition cénarienne -- Révéré<br/><font color='#c49609'>La Basse-tourbière</font><br/>5 joueurs maximum<br/>Niveaux 63-65<br/>Héroïque : requiert l’Expédition cénarienne -- Révéré<br/><font color='#c49609'>Le Caveau de la vapeur</font><br/>5 joueurs maximum<br/>Niveaux 70-72<br/>Héroïque : requiert l’Expédition cénarienne -- Révéré<br/><font color='#c49609'>Caverne du sanctuaire du Serpent</font><br/>25 joueurs maximum<br/>Niveau 70<br/></font>]]>
+		</ITEM>
+	</FILE>
+
+
+	<FILE filename='outlandhellfire.swf'  swftitle='Péninsule des Flammes infernales'>
+		<ITEM id='a1' text='La Porte des ténèbres'>
+
+<![CDATA[<font color='#81a408'><b>La Porte des ténèbres (Neutre)</b></font><br/><font color='#797c58'>Maître de vol</font>]]>
+		</ITEM>
+
+		<ITEM id='a2' text='Bastion de l’Honneur'>
+<![CDATA[<font color='#81a408'><b>Bastion de l’Honneur (Alliance)</b></font><br/><font color='#797c58'>Auberge, boîte aux lettres, maître de vol, maître des écuries, grand maître des joaillers, maître des dépeceurs, grand maître des tailleurs, maître des herboristes, grand maître des alchimistes, grand maître ingénieur, grand maître des forgerons, maître des mineurs, intendant, marchand de gemmes, marchand de nourriture, marchand de composants, forge, enclume</font>]]>
+		</ITEM>
+
+		<ITEM id='a3' text='Thrallmar'>
+<![CDATA[<font color='#81a408'><b>Thrallmar (Horde)</b></font><br/><font color='#797c58'>Auberge, boîte aux lettres, maître de vol, maître des écuries, grand maître des joaillers, maître des dépeceurs, grand maître des tailleurs, maître des herboristes, grand maître des alchimistes, grand maître ingénieur, grand maître des forgerons, maître des mineurs, intendant, marchand de gemmes, marchand de nourriture, marchand de composants, forge, enclume</font>]]>
+		</ITEM>
+
+		<ITEM id='a4' text='Temple de Telhamat'>
+
+<![CDATA[<font color='#81a408'><b>Temple de Telhamat (Alliance)</b></font><br/><font color='#797c58'>Auberge, boîte aux lettres, maître de vol, médecin, marchand de nourriture & boissons, marchand de composants, fabricant d’armes, forge, enclume</font>]]>
+		</ITEM>
+
+		<ITEM id='a5' text='Guet de l’épervier'>
+<![CDATA[<font color='#81a408'><b>Guet de l’épervier (Horde)</b></font><br/><font color='#797c58'>Auberge, boîte aux lettres, maître de vol, médecin, marchand de nourriture & boissons, marchand de composants, fabricant d’armes, forge, enclume</font>]]>
+		</ITEM>
+
+		<ITEM id='a6' text='Poste cénarien'>
+<![CDATA[<font color='#81a408'><b>Poste cénarien (Neutre)</b></font><br/><font color='#797c58'>PNJ donneurs de quêtes</font>]]>
+		</ITEM>
+
+		<ITEM id='a7' text='Citadelle des Flammes infernales'>
+
+<![CDATA[<font color='#81a408'><b>Citadelle des Flammes infernales (Donjon)</b></font><br/><font color='#797c58'><font color='#c49609'>Remparts des Flammes infernales</font><br/>5 joueurs maximum<br/>Niveaux 60-62<br/>Héroïque : requiert Bastion de l’Honneur, Thrallmar -- Révéré<br/><font color='#c49609'>La Fournaise du sang</font><br/>5 joueurs maximum<br/>Niveaux 61-63<br/>Héroïque : requiert Bastion de l’Honneur, Thrallmar -- Révéré<br/><font color='#c49609'>Les Salles brisées</font><br/>5 joueurs maximum<br/>Niveaux 70-72<br/>Héroïque : requiert Bastion de l’Honneur, Thrallmar -- Révéré<br/><font color='#c49609'>Le repaire de Magtheridon</font><br/>25 joueurs maximum<br/>Niveau 70<br/></font>]]>
+		</ITEM>
+	</FILE>
+
+
+	<FILE filename='outlandBladesedge.swf'  swftitle='Les Tranchantes'>
+		<ITEM id='a1' text='Sylvanaar'>
+<![CDATA[<font color='#81a408'><b>Sylvanaar (Alliance)</b></font><br/><font color='#797c58'>Auberge, boîte aux lettres, maître de vol, maître des écuries, puits de lune, fournitures générales, fabricant d’armes, fournitures d’artisanat</font>]]>
+		</ITEM>
+
+		<ITEM id='a2' text='Poste de Toshley'>
+
+<![CDATA[<font color='#81a408'><b>Poste de Toshley (Alliance zone)</b></font><br/><font color='#797c58'>Auberge, boîte aux lettres, maître de vol, fournitures d’ingénieur, fournitures d’artisanat, fournitures générales</font>]]>
+		</ITEM>
+
+		<ITEM id='a3' text='Sylve Ruuan'>
+<![CDATA[<font color='#81a408'><b>Sylve Ruuan(Zone neutre)</b></font><br/><font color='#797c58'>Auberge, boîte aux lettres, maître de vol, puits de lune, fournitures générales, fabricant d’armes, fournitures d’artisanat, marchand de nourriture & boissons, marchand de composants</font>]]>
+		</ITEM>
+
+		<ITEM id='a4' text='Repaire de Gruul'>
+<![CDATA[<font color='#81a408'><b>Repaire de Gruul (Donjon)</b></font><br/><font color='#797c58'>25 joueurs maximum<br/>Niveau 70<br/></font>]]>
+		</ITEM>
+
+		<ITEM id='a5' text='Bastion des Sire-tonnerre'>
+
+<![CDATA[<font color='#81a408'><b>Bastion des Sire-tonnerre (Horde)</b></font><br/><font color='#797c58'>Auberge, boîte aux lettres, maître de vol, maître des écuries, fournitures d’artisanat, fruits et champignons, maître des premiers soins, poissonnier, armes de jet & munitions, fournitures générales, potions, fabricant de haches, forge, enclume</font>]]>
+		</ITEM>
+
+		<ITEM id='a6' text='Mok’Nathal'>
+<![CDATA[<font color='#81a408'><b>Mok’Nathal (Horde)</b></font><br/><font color='#797c58'>Auberge, maître de vol, maître des écuries, Grand Master Leatherworker, fournitures d’artisan du cuir, fournitures d’artisanat, fournitures générales, armes contondantes</font>]]>
+		</ITEM>
+	</FILE>
+
+
+	<FILE filename='outlandterokkar.swf'  swftitle='Forêt de Terokkar'>
+		<ITEM id='a1' text='Shattrath'>
+
+<![CDATA[<font color='#81a408'><b>Shattrath (Sanctuaire)</b></font><br/><font color='#797c58'></font>]]>
+		</ITEM>
+
+		<ITEM id='a2' text='Fort des Brise-pierres'>
+<![CDATA[<font color='#81a408'><b>Fort des Brise-pierres (Horde)</b></font><br/><font color='#797c58'>Auberge, boîte aux lettres, maître de vol, maître des écuries, fournitures d’artisanat, fabricant d’arcs, fournitures générales, forge, enclume, récompense Eclats d’esprit</font>]]>
+		</ITEM>
+PRUNE
+
+		<ITEM id='a3' text='Bastion allérien'>
+<![CDATA[<font color='#81a408'><b>Bastion allérien (Alliance)</b></font><br/><font color='#797c58'>Auberge, boîte aux lettres, maître de vol, maître des écuries, fournitures d’artisanat, fournitures générales, marchand de sacs, fournitures de forgeron, rations, enclume, forge, récompense Eclats d’esprit</font>]]>
+		</ITEM>
+
+		<ITEM id='a4' text='Caravane de réfugiés'>
+
+<![CDATA[<font color='#81a408'><b>Caravane de réfugiés (Neutre)</b></font><br/><font color='#797c58'>Fournitures générales, fournitures d’artisanat, marchand de nourriture & boissons, bricoleur</font>]]>
+		</ITEM>
+
+		<ITEM id='a5' text='Camp de base sha’tari'>
+<![CDATA[<font color='#81a408'><b>Camp de base sha’tari (Neutre)</b></font><br/><font color='#797c58'>Maître des premiers soins, fournitures de forgeron</font>]]>
+		</ITEM>
+
+		<ITEM id='a6' text='Auchindoun'>
+<![CDATA[<font color='#81a408'><b>Auchindoun (Donjon)</b></font><br/><font color='#797c58'><font color='#c49609'>Tombes-mana</font><br/>5 joueurs maximum<br/>Niveaux 64-66<br/>Héroïque : requiert Ville basse -- Révéré<br/><font color='#c49609'>Cryptes Auchenaï</font><br/>5 joueurs maximum<br/>Niveaux 65-67<br/>Héroïque : requiert Ville basse -- Révéré<br/><font color='#c49609'>Les salles des Sethekk</font><br/>5 joueurs maximum<br/>Niveaux 67-69<br/>Héroïque : requiert Ville basse -- Révéré<br/><font color='#c49609'>Labyrinthe des ombres</font><br/>5 joueurs maximum<br/>Niveaux 70-72<br/>Héroïque : requiert Ville basse -- Révéré<br/></font>]]>
+		</ITEM>
+	</FILE>
+
+
+	<FILE filename='outlandnetherstorm.swf'  swftitle='Raz-de-Néant'>
+		<ITEM id='a1' text='Zone 52'>
+<![CDATA[<font color='#81a408'><b>Zone 52 (Neutre)</b></font><br/><font color='#797c58'>Auberge, boîte aux lettres, maître de vol, grand maître ingénieur, maître mixologue de la B.O.U.M., maître de l’arène, fournitures d’artisanat, ingénieur en charge du transporteur, marchand de nourriture & boissons, fournitures générales, banquier, fournitures d’ingénieur, forge, enclume</font>]]>
+		</ITEM>
+
+		<ITEM id='a2' text='Écodôme Terres-médianes'>
+<![CDATA[<font color='#81a408'><b>Écodôme Terres-médianes (Neutre)</b></font><br/><font color='#797c58'>Fournitures générales</font>]]>
+		</ITEM>
+
+		<ITEM id='a3' text='La Foudreflèche'>
+
+<![CDATA[<font color='#81a408'><b>La Foudreflèche (Neutre)</b></font><br/><font color='#797c58'>Auberge, boîte aux lettres, maître de vol, grand maître des enchanteurs, grand maître des joaillers, pièces détachées, armes exotiques, gemmes et joaillerie, fournitures d’enchanteurs, fournitures d’artisanat, marchand de fournitures magiques, créatures exotiques, fournitures générales, boissons fortes, intendant du Consortium, forge, enclume</font>]]>
+		</ITEM>
+
+		<ITEM id='a4' text='Cosmovrille'>
+<![CDATA[<font color='#81a408'><b>Cosmovrille (Neutre)</b></font><br/><font color='#797c58'>Maître de vol, composants et poisons, fabricant d’armes, forge, enclume</font>]]>
+		</ITEM>
+
+		<ITEM id='a5' text='Poste de garde du Protectorat'>
+<![CDATA[<font color='#81a408'><b>Poste de garde du Protectorat (Neutre)</b></font><br/><font color='#797c58'>Fournitures générales</font>]]>
+		</ITEM>
+
+		<ITEM id='a6' text='Kirin’Var'>
+
+<![CDATA[<font color='#81a408'><b>Kirin’Var (Neutre)</b></font><br/><font color='#797c58'>Fournitures de forgeron</font>]]>
+		</ITEM>
+
+		<ITEM id='a7' text='Donjon de la Tempête'>
+<![CDATA[<font color='#81a408'><b>Donjon de la Tempête (Donjon)</b></font><br/><font color='#797c58'><font color='#c49609'>Le Méchanar</font><br/>5 joueurs maximum<br/>Niveau 70<br/>Héroïque : requiert les Sha'tar -- Révéré<br/><font color='#c49609'>la Botanica</font><br/>5 joueurs maximum<br/>Niveau 70<br/>Héroïque : requiert Les Sha'tar -- Révéré<br/><font color='#c49609'>L’Arcatraz</font><br/>5 joueurs maximum<br/>Niveau 70<br/>Héroïque : requiert Les Sha'tar -- Révéré<br/><font color='#c49609'>L’Œil</font><br/>25 joueurs maximum<br/>Niveau 70<br/></font>]]>
+		</ITEM>
+	</FILE>
+
+
+	<FILE filename='kalimdarnassus.swf'  swftitle='Darnassus'>
+		<ITEM id='a1' text='Darnassus'>
+
+<![CDATA[<font color='#81a408'><b>Darnassus</b></font><br/><font color='#797c58'>1. Maître des voleurs; 2. Maître des druides; 3. Maître des écuries; 4. Maître des chasseurs; 5. Maître des premiers soins; 6. Maître des enchanteurs; 7. Auberge; 8. Maître des cuisiniers; 9. Maître des alchimistes; 10. Maître des dépeceurs; 11. Maître des artisans du cuir; 12. Maître des tailleurs; 13. Maître des guildes; 14. Maître des hippogriffes; 15. Banque; 16. Maître de guerre; 17. Maître des guerriers; 18. Maître d’armes; 19. Hôtel des ventes; 20. Maître des pêcheurs; 21. Maître des herboristes; 22. Maître des prêtres</font>]]>
+		</ITEM>
+	</FILE>
+
+
+	<FILE filename='kalimmoonglade.swf'  swftitle='Reflet-de-Lune'>
+		<ITEM id='a1' text='Maître de vol'>
+<![CDATA[<font color='#81a408'><b>Maître de vol (Alliance)</b></font><br/><font color='#797c58'></font>]]>
+		</ITEM>
+
+		<ITEM id='a2' text='Maître de vol'>
+
+<![CDATA[<font color='#81a408'><b>Maître de vol (Horde)</b></font><br/><font color='#797c58'></font>]]>
+		</ITEM>
+
+		<ITEM id='a3' text='Havrenuit (Neutre)'>
+<![CDATA[<font color='#81a408'><b>Havrenuit</b></font><br/><font color='#797c58'>Maître de vol (seulement pour druides)<br/>Marchand de nourriture & boissons, marchand d’armures en étoffe & en cuir, fournitures d’artisanat, Tailleur de robes spécialiste, fournitures de tailleur, fabricant d’armes, fabricant d’arcs, fournitures générales</font>]]>
+		</ITEM>
+	</FILE>
+
+
+	<FILE filename='kalimStonetalon.swf'  swftitle='Les Serres-Rocheuses'>
+		<ITEM id='a1' text='Pic des Serres-Rocheuses'>
+
+<![CDATA[<font color='#81a408'><b>Pic des Serres-Rocheuses (Alliance)</b></font><br/><font color='#797c58'>Auberge, boîte aux lettres, maître de vol, marchand d’armures en étoffe, fournitures générales</font>]]>
+		</ITEM>
+
+		<ITEM id='a2' text='Retraite de Roche-Soleil'>
+<![CDATA[<font color='#81a408'><b>Retraite de Roche-Soleil (Horde)</b></font><br/><font color='#797c58'>Auberge, boîte aux lettres, maître de vol, maître des écuries, marchand de fournitures magiques, fournitures générales, boucher, fournitures d’artisanat, fabricant d’arcs, forge, enclume</font>]]>
+		</ITEM>
+
+		<ITEM id='a3' text='Malaka’jin'>
+<![CDATA[<font color='#81a408'><b>Malaka’jin (Horde)</b></font><br/><font color='#797c58'>Boucher</font>]]>
+		</ITEM>
+	</FILE>
+
+
+	<FILE filename='kalimDurotar.swf'  swftitle='Durotar'>
+		<ITEM id='a1' text='Sen’jin'>
+<![CDATA[<font color='#81a408'><b>Sen’jin (Horde)</b></font><br/><font color='#797c58'>Entraîneur de monte de raptor, maître des mages, maître des herboristes, alchimiste - compagnon, boucher, fournitures d’artisanat, fournitures de pêche, fournitures générales, fabricant d’armes</font>]]>
+		</ITEM>
+
+		<ITEM id='a2' text='Vallée des épreuves'>
+<![CDATA[<font color='#81a408'><b>Vallée des épreuves (Horde)</b></font><br/><font color='#797c58'>Maître des guerriers, maître des chasseurs, maître des mages, maître des chamans, maître des voleurs, maître des démonistes, maître des démons, maître des prêtres, boucher, fournitures générales, fabricant d’armes, armures & boucliers, marchand d’armures en étoffe & en cuir</font>]]>
+		</ITEM>
+
+		<ITEM id='a3' text='Tranchecolline'>
+
+<![CDATA[<font color='#81a408'><b>Tranchecolline (Horde)</b></font><br/><font color='#797c58'>Auberge, boîte aux lettres, maître des guerriers, maître des chamans, maître des prêtres, maître des voleurs, maître des chasseurs, maître des démonistes, maître des démons, maître des premiers soins, maître des familiers, ingénieur - compagnon, maître des mineurs, forgeron - expert, fabricant d’armes, armures & boucliers, fabricant d’arcs, fournitures d’artisanat, fournitures générales, forge, enclume</font>]]>
+		</ITEM>
+
+		<ITEM id='a4' text='aéroport'>
+<![CDATA[<font color='#81a408'><b>Zeppelin (Horde)</b></font><br/><font color='#797c58'>Trajet de vol en Zeppelin vers les Clairières de Tirisfal, Campement Grom'gol</font>]]>
+		</ITEM>
+
+		<ITEM id='a5' text='Orgrimmar'>
+<![CDATA[<font color='#81a408'><b>Orgrimmar</b></font><br/><font color='#797c58'></font>]]>
+		</ITEM>
+
+		<ITEM id='a6' text='Kirin’Var'>
+
+<![CDATA[<font color='#81a408'><b>Kirin’Var (Neutre)</b></font><br/><font color='#797c58'>Fournitures de forgeron</font>]]>
+		</ITEM>
+
+		<ITEM id='a7' text='Donjon de la Tempête'>
+<![CDATA[<font color='#81a408'><b>Donjon de la Tempête (Donjon)</b></font><br/><font color='#797c58'><font color='#c49609'>Le Mechanar</font><br/>5 joueurs maximum<br/>Niveau 70+<br/>Héroïque : requiert Les Sha'tar -- Révéré<br/><font color='#c49609'>La Botanica</font><br/>5 joueurs maximum<br/>Niveau 70<br/>Héroïque : requiert Les Sha'tar -- Révéré<br/><font color='#c49609'>L’Arcatraz</font><br/>5 joueurs maximum<br/>Niveau 70<br/>Héroïque : requiert Les Sha'tar -- Révéré<br/><font color='#c49609'>The Eye</font><br/>25 joueurs maximum<br/>Niveau 70<br/>U?: 25 ? , 7 ? ð, ?  ?<br/></font>]]>
+		</ITEM>
+	</FILE>
+
+
+	<FILE filename='kalimDustwallow.swf'  swftitle='Marécage d’Âprefange'>
+		<ITEM id='a1' text='Village Mur-de-Fougères'>
+
+<![CDATA[<font color='#81a408'><b>Village Mur-de-Fougères (Horde)</b></font><br/><font color='#797c58'>Maître de vol, fabricant d’armes, fournitures de tailleur, fabricant d’arcs, armurier, potions, parchemins et composants, boucher</font>]]>
+		</ITEM>
+
+		<ITEM id='a2' text='Ile de Theramore'>
+<![CDATA[<font color='#81a408'><b>Ile de Theramore (Alliance)</b></font><br/><font color='#797c58'>Auberge, boîte aux lettres, maître de vol, maître des écuries, maître des guerriers, maître des paladins, chirurgien, maître des herboristes, alchimiste - expert, tailleur - maître, tavernier, marchand de nourriture, marchand d’armes et fournitures d’armures, fabricant d’armes à feu, fabricant d’arcs, fournitures générales, fournitures d’artisanat, armures & boucliers, fabricant d’armes, éleveur de chevaux, fournitures d’alchimie<br/>Trajet en bateau vers Menethil dans les Royaumes de l’Est</font>]]>
+		</ITEM>
+
+		<ITEM id='a3' text='Le repaire d’Onyxia'>
+<![CDATA[<font color='#81a408'><b>Le repaire d’Onyxia (Donjon)</b></font><br/><font color='#797c58'>40 joueurs maximum<br/>Niveau 60<br/></font>]]>
+		</ITEM>
+	</FILE>
+
+
+	<FILE filename='kalimMulgore.swf'  swftitle='Mulgore'>
+		<ITEM id='a1' text='Camp Narache'>
+<![CDATA[<font color='#81a408'><b>Camp Narache (Horde)</b></font><br/><font color='#797c58'>Maître des guerriers, maître des chasseurs, maître des druides, maître des chamans, boulanger, armures & boucliers, fabricant d’armes, marchand d’armures de cuir, fournitures générales</font>]]>
+		</ITEM>
+
+		<ITEM id='a2' text='Sabot-de-sang'>
+<![CDATA[<font color='#81a408'><b>Sabot-de-sang (Horde)</b></font><br/><font color='#797c58'>Auberge, boîte aux lettres, maître des écuries, maître des guerriers, maître des chamans, maître des druides, maître des chasseurs, maître des familiers, maître des pêcheurs, maître des dépeceurs, maître des cuisiniers, artisan du cuir - compagnon, maître des premiers soins, Kodo Riding Instructor, Kodo Mounts, boulanger, fournitures générales, fabricant d’armes à feu, fabricant d’armes, marchand d’armures de cuir, armures & boucliers, fournitures d’artisanat, marchand de poissons & fournitures</font>]]>
+		</ITEM>
+
+		<ITEM id='a3' text='Rochers rouges'>
+
+<![CDATA[<font color='#81a408'><b>Rochers rouges (Horde)</b></font><br/><font color='#797c58'>ingénieur - compagnon (Neutre)</font>]]>
+		</ITEM>
+
+		<ITEM id='a4' text='Pitons du Tonnerre'>
+<![CDATA[<font color='#81a408'><b>Pitons du Tonnerre (Horde)</b></font><br/><font color='#797c58'></font>]]>
+		</ITEM>
+	</FILE>
+
+
+	<FILE filename='kalimThousand.swf'  swftitle='Mille pointes'>
+		<ITEM id='a1' text='Poste de Blanc-relais'>
+
+<![CDATA[<font color='#81a408'><b>Poste de Blanc-relais (Horde)</b></font><br/><font color='#797c58'>Marchand de nourriture & boissons</font>]]>
+		</ITEM>
+
+		<ITEM id='a2' text='Poste de Librevent'>
+<![CDATA[<font color='#81a408'><b>Poste de Librevent (Horde)</b></font><br/><font color='#797c58'>Auberge, boîte aux lettres, maître de vol, maître des écuries, fournitures générales, fournitures d’artisanat, boucher, marchand de composants, fabricant d’armes à feu & arcs</font>]]>
+		</ITEM>
+
+		<ITEM id='a3' text='Piste des mirages'>
+<![CDATA[<font color='#81a408'><b>Piste des mirages (Neutre)</b></font><br/><font color='#797c58'>Fournitures d’ingénieur, marchand de glaces, fabricant d’armes à feu, marchand de boissons</font>]]>
+		</ITEM>
+	</FILE>
+
+
+	<FILE filename='kalimTheBarrens.swf'  swftitle='les Tarides'>
+		<ITEM id='a1' text='Goulet des Chanteguerres'>
+<![CDATA[<font color='#81a408'><b>Goulet des Chanteguerres (Horde)</b></font><br/><font color='#797c58'>Officier de ravitaillement Chanteguerre, gourmandises Fumebois, Le maître de guerre</font>]]>
+		</ITEM>
+
+		<ITEM id='a2' text='La Croisée'>
+<![CDATA[<font color='#81a408'><b>La Croisée (Horde)</b></font><br/><font color='#797c58'>Auberge, boîte aux lettres, maître de vol, maître des écuries, forgeron - expert, tailleur - compagnon, fournitures de tailleur, boulanger, composants et herbes, fournitures d’artisanat, fournitures générales, marchand de sacs, marchand d’armures en étoffe, fabricant d’armes, marchand d’armures en cuir & en mailles, fabricant d’arcs & armes à feu, fournitures de forgeron, forge, enclume</font>]]>
+		</ITEM>
+
+		<ITEM id='a3' text='Cabestan'>
+
+<![CDATA[<font color='#81a408'><b>Cabestan (Neutre)</b></font><br/><font color='#797c58'>Auberge, boîte aux lettres, maître de vol, fabricant d’armes, banque, maître des écuries, maître des démonistes, maître des démons, ingénieur - compagnon, maître-ingénieur gobelin, pêcheur, fournitures d’ingénieur, fabricant d’armes, armures & boucliers, marchand d’armures en étoffe & en cuir, fournitures générales, fournitures d’artisanat, forge, enclume<br/>Trajet en bateau vers Baie-du-Butin dans les Royaumes de l’Est</font>]]>
+		</ITEM>
+
+		<ITEM id='a4' text='Camp Taurajo'>
+<![CDATA[<font color='#81a408'><b>Camp Taurajo (Horde)</b></font><br/><font color='#797c58'>Auberge, boîte aux lettres, maître de vol, maître des écuries, tailleur - expert, artisan du cuir - expert, maître des dépeceurs, marchand d’armures de cuir, fournitures de tailleur, boucher, forge, enclume</font>]]>
+		</ITEM>
+
+		<ITEM id='a5' text='Cavernes des lamentations'>
+<![CDATA[<font color='#81a408'><b>Cavernes des lamentations (Donjon)</b></font><br/><font color='#797c58'>5 joueurs maximum<br/>Niveaux 15-28<br/></font>]]>
+		</ITEM>
+
+		<ITEM id='a6' text='Kraal de Tranchebauge'>
+
+<![CDATA[<font color='#81a408'><b>Kraal de Tranchebauge (Donjon)</b></font><br/><font color='#797c58'>5 joueurs maximum<br/>Niveaux 24-40<br/></font>]]>
+		</ITEM>
+
+		<ITEM id='a7' text='Souilles de Tranchebauge'>
+<![CDATA[<font color='#81a408'><b>Souilles de Tranchebauge (Donjon)</b></font><br/><font color='#797c58'>5 joueurs maximum<br/>Niveaux 33-47<br/></font>]]>
+		</ITEM>
+	</FILE>
+
+
+	<FILE filename='kalimSilithus.swf'  swftitle='Silithus'>
+		<ITEM id='a1' text='Le Repos des Vaillants'>
+
+<![CDATA[<font color='#81a408'><b>Le Repos des Vaillants (Neutre)</b></font><br/><font color='#797c58'>Fournitures pour artisans du cuir</font>]]>
+		</ITEM>
+
+		<ITEM id='a2' text='Fort cénarien'>
+<![CDATA[<font color='#81a408'><b>Fort cénarien (Neutre)</b></font><br/><font color='#797c58'>Auberge, boîte aux lettres, maître de vol, maître des écuries, puits de lune, forgeron, fournitures d’artisanat, fournitures d’enchanteurs, marchand de composants, forge, enclume</font>]]>
+		</ITEM>
+
+		<ITEM id='a3' text='Ahn’Qiraj'>
+<![CDATA[<font color='#81a408'><b>Ahn’Qiraj (Donjon)</b></font><br/><font color='#797c58'><font color='#c49609'>Ruines d’Ahn’Qiraj</font><br/>20 joueurs maximum<br/>Niveau 60<br/><font color='#c49609'>Temple d’Ahn’Qiraj</font><br/>40 joueurs maximum<br/>Niveau 60<br/></font>]]>
+		</ITEM>
+	</FILE>
+
+
+	<FILE filename='kalimThunderBluff.swf'  swftitle='Pitons du Tonnerre'>
+		<ITEM id='a1' text='Pitons du Tonnerre'>
+<![CDATA[<font color='#81a408'><b>Pitons du Tonnerre</b></font><br/><font color='#797c58'>1. Maître des chamans; 2. Maître des premiers soins; 3. Maître des prêtres; 4. Maître des mages; 5. Maître des druides; 6. Maître des alchimistes; 7. Maître des enchanteurs; 8. Maître des herboristes; 9.Maître des dépeceurs; 10. Maître des tailleurs; 11. Maître des artisans du cuir; 12. Maître des pêcheurs; 13. Hôtel des ventes; 14. maître des coursiers du vent; 15. Maître des cuisiniers; 16. Maître des mineurs; 17. Maître des forgerons; 18. Maître des guildes; 19. Maître d’armes; 20. Maître des écuries; 21. Boîte aux lettres; 22. Banque; 23. Auberge; 24. Maître de guerre; 25. Maître des guerriers; 26. Maître des chasseurs</font>]]>
+		</ITEM>
+	</FILE>
+
+
+	<FILE filename='kalimAzshara.swf'  swftitle='Azshara'>
+		<ITEM id='a1' text='Halte de Talrendis'>
+
+<![CDATA[<font color='#81a408'><b>Halte de Talrendis (Alliance)</b></font><br/><font color='#797c58'>Maître de vol, fabricant d’arcs</font>]]>
+		</ITEM>
+
+		<ITEM id='a2' text='Valormok'>
+<![CDATA[<font color='#81a408'><b>Valormok (Horde)</b></font><br/><font color='#797c58'>Maître de vol, fabricant d’armes, marchand de nourriture & boissons</font>]]>
+		</ITEM>
+	</FILE>
+
+
+	<FILE filename='kalimFelwood.swf'  swftitle='Gangrebois'>
+		<ITEM id='a1' text='Sanctuaire d’émeraude'>
+
+<![CDATA[<font color='#81a408'><b>Sanctuaire d’émeraude (Neutre)</b></font><br/><font color='#797c58'>Maître de vol</font>]]>
+		</ITEM>
+
+		<ITEM id='a2' text='Poste de la Vénéneuse'>
+<![CDATA[<font color='#81a408'><b>Poste de la Vénéneuse (Horde)</b></font><br/><font color='#797c58'>Maître de vol, fabricant d’armes, fournitures générales</font>]]>
+		</ITEM>
+
+		<ITEM id='a3' text='Clairière de Griffebranche'>
+<![CDATA[<font color='#81a408'><b>Clairière de Griffebranche (Alliance)</b></font><br/><font color='#797c58'>Maître de vol, maître des chasseurs, maître des familiers, maître des druides, fournitures générales, fabricant d’armes</font>]]>
+		</ITEM>
+	</FILE>
+
+
+	<FILE filename='kalimDarkshore.swf'  swftitle='Sombrivage'>
+		<ITEM id='a1' text='Auberdine'>
+<![CDATA[<font color='#81a408'><b>Auberdine (Alliance)</b></font><br/><font color='#797c58'>Auberge, boîte aux lettres, maître de vol, maître des écuries, ingénieur - compagnon, tailleur - compagnon, forgeron - expert, maître des mineurs, puits de lune, marchand de nourriture & boissons, marchand de boissons, marchand de poissons, boulanger, fournitures générales, fabricant d’armes, marchand d’armures de cuir, armures & boucliers, fournitures de tailleur, marchand d’armures en étoffe, fournitures d’artisanat, fournitures de forgeron, fournitures de mineur, forge, enclume <br/>Trajet en bateau vers le port de Menethil dans les Royaumes de l’est<br/>Trajet en bateau vers Teldrassil ou l’Ile de Brume-azur</font>]]>
+		</ITEM>
+
+		<ITEM id='a2' text='Bosquet des Anciens'>
+<![CDATA[<font color='#81a408'><b>Bosquet des Anciens (Alliance)</b></font><br/><font color='#797c58'>Fournitures d’artisanat, marchand de nourriture & boissons</font>]]>
+		</ITEM>
+	</FILE>
+
+
+	<FILE filename='kalimExodar.swf'  swftitle='L’Exodar'>
+		<ITEM id='a1' text='L’Exodar'>
+<![CDATA[<font color='#81a408'><b>L’Exodar</b></font><br/><font color='#797c58'>1. Maître des pêcheurs; 2. Maître des premiers soins; 3. Joaillerie; 4. Maître des cuisiniers; 5. Maître des écuries; 6. Auberge; 7. Maître de guerre de l’arène; 8. Maître des chamans; 9. Maître des enchanteurs; 10. Banque; 11. Boîte aux lettres; 12. Maître de guerre; 13. Maître des alchimistes; 14. Maître des herboristes; 15. Maître des prêtres; 16. Maître des mages; 17. Hôtel des ventes; 18. Maître des coursiers du vent; 19. Maître des guildes; 20. Maître des tailleurs; 21. Maître des dépeceurs; 22. Maître des artisans du cuir; 23. Maître des paladins; 24. Maître des chasseurs; 25. Maître des guerriers; 26. Maître d’armes; 27. Maître des ingénieurs; 28. Maître des mineurs; 29. Maître des forgerons</font>]]>
+		</ITEM>
+	</FILE>
+
+
+	<FILE filename='kalimWinterspring.swf'  swftitle='Berceau-de-l’hiver'>
+		<ITEM id='a1' text='Long-guet'>
+
+<![CDATA[<font color='#81a408'><b>Long-guet (Neutre)</b></font><br/><font color='#797c58'>Auberge, boîte aux lettres, maître de vol, maître des écuries, banque, hôtel des ventes neutre, fournitures d’ingénieur, fournitures d’alchimie, marchand de nourriture & boissons, fournitures de mineur, marchand d’armures lourdes, marchand d’armures en étoffe & en cuir, fabricant d’armes & fabricant d’armes à feu, fournitures d’artisanat, forge, enclume</font>]]>
+		</ITEM>
+
+		<ITEM id='a2' text='Pluie-d’Étoiles'>
+<![CDATA[<font color='#81a408'><b>Pluie-d’Étoiles (Alliance)</b></font><br/><font color='#797c58'>Fournitures d’artisanat, fournitures générales, marchand de nourriture & boissons</font>]]>
+		</ITEM>
+
+		<ITEM id='a3' text='Gorge du Sombre murmure'>
+<![CDATA[<font color='#81a408'><b>Gorge du Sombre murmure (Neutre)</b></font><br/><font color='#797c58'>Marchand de réactifs exotiques</font>]]>
+		</ITEM>
+	</FILE>
+
+
+	<FILE filename='kalimOrgrimmar.swf'  swftitle='Orgrimmar'>
+		<ITEM id='a1' text='Orgrimmar'>
+<![CDATA[<font color='#81a408'><b>Orgrimmar</b></font><br/><font color='#797c58'>1. Maître des chasseurs; 2. Maître des écuries; 3. Maître d’armes; 4. Maître des forgerons; 5. Maître des pêcheurs; 6. Maître des mineurs; 7. Maître des ingénieurs; 8. Maître de guerre; 9. Maître des guerriers; 10. Maître des paladins; 11. Maître des chamans; 12. Maître des alchimistes; 13. Maître des enchanteurs; 14. Maître des herboristes; 15. Maître des dépeceurs; 16. Maître des artisans du cuir; 17. Maître des tailleurs; 18. Maître des cuisiniers; 19 .Maître des démonistes; 20. Maître des voleurs; 21. Mess des officiers; 22. Maître des coursiers du vent; 23. Hôtel des ventes; 24. Maître des guildes; 25. Banque; 26. Boîte aux lettres; 27. Auberge; 28. Maître des premiers soins; 29. Maître des prêtres; 30. Maître des mages</font>]]>
+		</ITEM>
+	</FILE>
+
+
+	<FILE filename='kalimUngoro.swf'  swftitle='Cratère d’Un’Goro'>
+		<ITEM id='a1' text='Refuge des Marshal'>
+
+<![CDATA[<font color='#81a408'><b>Refuge des Marshal (Neutre)</b></font><br/><font color='#797c58'>Maître de vol, fabricant d’armes, fournitures générales</font>]]>
+		</ITEM>
+	</FILE>
+
+
+	<FILE filename='kalimDesolace.swf'  swftitle='Désolace'>
+		<ITEM id='a1' text='Proie-de-l’Ombre'>
+<![CDATA[<font color='#81a408'><b>Proie-de-l’Ombre (Horde)</b></font><br/><font color='#797c58'>Auberge, boîte aux lettres, maître de vol, maître des écuries, maître des dépeceurs, fournitures d’artisanat, pêcheur, fournitures de pêche, fournitures de cuisinier, fabricant de haches, fournitures générales, forge, enclume</font>]]>
+		</ITEM>
+
+		<ITEM id='a2' text='Poste de Rôdeur-fantôme'>
+
+<![CDATA[<font color='#81a408'><b>Poste de Rôdeur-fantôme (Horde)</b></font><br/><font color='#797c58'>Artisan du cuir - expert, excellent forgeur de marteaux, marchand de nourriture & boissons, fournitures d’artisanat</font>]]>
+		</ITEM>
+
+		<ITEM id='a3' text='Maraudon'>
+<![CDATA[<font color='#81a408'><b>Maraudon (Donjon)</b></font><br/><font color='#797c58'>5 joueurs maximum<br/>Niveaux 40-58<br/></font>]]>
+		</ITEM>
+
+		<ITEM id='a4' text='Combe de Nijel'>
+<![CDATA[<font color='#81a408'><b>Combe de Nijel (Alliance)</b></font><br/><font color='#797c58'>Auberge, boîte aux lettres, maître de vol, maître des écuries, puits de lune, marchand de nourriture & boissons, fournitures générales, marchand de cottes de mailles</font>]]>
+		</ITEM>
+	</FILE>
+
+
+	<FILE filename='kalimAshenvale.swf'  swftitle='Orneval'>
+		<ITEM id='a1' text='Profondeurs de Brassenoire'>
+<![CDATA[<font color='#81a408'><b>Profondeurs de Brassenoire (Donjon)</b></font><br/><font color='#797c58'>5 joueurs maximum<br/>Niveaux 20-35<br/></font>]]>
+		</ITEM>
+
+		<ITEM id='a2' text='Avant-poste de Zoram’gar'>
+<![CDATA[<font color='#81a408'><b>Avant-poste de Zoram’gar (Horde)</b></font><br/><font color='#797c58'>Maître de vol, pêcheur, marchand de poissons & fournitures</font>]]>
+		</ITEM>
+
+		<ITEM id='a3' text='Astranaar'>
+
+<![CDATA[<font color='#81a408'><b>Astranaar (Alliance)</b></font><br/><font color='#797c58'>Auberge, boîte aux lettres, maître de vol, maître des écuries, artisan du cuir - expert, marchand de composants, marchand d’armures en étoffe, marchand d’armures de cuir, fournitures d’artisan du cuir, fournitures douteuses, marchand de nourriture & boissons, boulanger, fabricant d’armes, fournitures générales, fournitures d’artisanat</font>]]>
+		</ITEM>
+
+		<ITEM id='a4' text='Refuge de Vent-argent'>
+<![CDATA[<font color='#81a408'><b>Refuge de Vent-argent (Alliance)</b></font><br/><font color='#797c58'>Maître des chasseurs, maître des familiers, maître des dépeceurs, alchimiste - expert, maître des herboristes, fournitures d’alchimie, fournitures d’artisanat, fabricant d’arcs, boucher</font>]]>
+		</ITEM>
+
+		<ITEM id='a5' text='Poste de Bois-brisé'>
+<![CDATA[<font color='#81a408'><b>Poste de Bois-brisé (Horde)</b></font><br/><font color='#797c58'>Auberge, boîte aux lettres, maître de vol, maître des écuries, marchand d’armures lourdes</font>]]>
+		</ITEM>
+
+		<ITEM id='a6' text='Goulet des Chanteguerres'>
+
+<![CDATA[<font color='#81a408'><b>Goulet des Chanteguerres (Alliance)</b></font><br/><font color='#797c58'>Officier de ravitaillement d’Aile-argent, gourmandises Fumebois, maître de guerre du Goulet des Chanteguerres</font>]]>
+		</ITEM>
+
+		<ITEM id='a7' text='Chant des forêts'>
+<![CDATA[<font color='#81a408'><b>Chant des forêts (Alliance)</b></font><br/><font color='#797c58'>Maître de vol, fabricant d’armes</font>]]>
+		</ITEM>
+	</FILE>
+
+
+	<FILE filename='kalimTanaris.swf'  swftitle='Tanaris'>
+		<ITEM id='a1' text='Gadgetzan'>
+
+<![CDATA[<font color='#81a408'><b>Gadgetzan (Neutre)</b></font><br/><font color='#797c58'>Auberge, boîte aux lettres, maître de vol, maître des écuries, maître de l’arène, banque, hôtel des ventes neutre, ingénieur - maître, boucher, maître-ingénieur gobelin, L’ordre du Mithril, maître des mineurs, fournitures de forgeron, fabricant d’armes à feu, excellent fabricant d’armures, fournitures de tailleur, fournitures d’alchimie, forge, enclume</font>]]>
+		</ITEM>
+
+		<ITEM id='a2' text='Port Gentepression'>
+<![CDATA[<font color='#81a408'><b>Port Gentepression (Neutre)</b></font><br/><font color='#797c58'>pêcheur, fournitures générales</font>]]>
+		</ITEM>
+
+		<ITEM id='a3' text='Zul’Farrak'>
+<![CDATA[<font color='#81a408'><b>Zul’Farrak (Donjon)</b></font><br/><font color='#797c58'>5 joueurs maximum<br/>Niveaux 43-54<br/></font>]]>
+		</ITEM>
+
+		<ITEM id='a4' text='Grottes du temps'>
+
+<![CDATA[<font color='#81a408'><b>Grottes du temps (Donjon)</b></font><br/><font color='#797c58'><font color='#c49609'>Contreforts de Hautebrande d’antan</font><br/>5 joueurs maximum<br/>Niveaux 66-68<br/>Héroïque : requiert Les Gardiens du Temps -- Révéré<br/><font color='#c49609'>Le Noir Marécage</font><br/>5 joueurs maximum<br/>Niveaux 69-72<br/>Héroïque : requiert Les Gardiens du Temps -- Révéré<br/><font color='#c49609'>Mont Hyjal</font><br/>25 joueurs maximum<br/>Niveau 70<br/><font color='#c49609'></font>]]>
+		</ITEM>
+	</FILE>
+
+
+	<FILE filename='kalimTeldrassi.swf'  swftitle='Teldrassil'>
+		<ITEM id='a1' text='Sombrevallon'>
+<![CDATA[<font color='#81a408'><b>Sombrevallon (Alliance)</b></font><br/><font color='#797c58'>Maître des druides, maître des chasseurs, maître des prêtres, maître des voleurs, maître des guerriers, armures & boucliers, fabricant d’armes, marchand d’armures de cuir, marchand de nourriture & boissons, fabricant d’arcs, marchand d’armures en étoffe, fournitures générales</font>]]>
+		</ITEM>
+
+		<ITEM id='a2' text='Dolanaar'>
+
+<![CDATA[<font color='#81a408'><b>Dolanaar (Alliance)</b></font><br/><font color='#797c58'>Auberge, boîte aux lettres, maître des écuries, maître des chasseurs, maître des familiers, maître des druides, maître des prêtres, maître des voleurs, maître des guerriers, maître des premiers soins, maître des cuisiniers, fournitures de cuisinier, maître des herboristes, alchimiste - compagnon, fabricant d’arcs, armures & boucliers, fabricant d’armes, marchand d’armures de cuir, marchand d’armures en étoffe, puits de lune, marchand de nourriture & boissons, fournitures générales, fournitures d’artisanat</font>]]>
+		</ITEM>
+
+		<ITEM id='a3' text='Teldrassil'>
+<![CDATA[<font color='#81a408'><b>Teldrassil (Alliance)</b></font><br/><font color='#797c58'>Maître des dépeceurs, artisan du cuir - compagnon</font>]]>
+		</ITEM>
+
+		<ITEM id='a4' text='Darnassus'>
+<![CDATA[<font color='#81a408'><b>Darnassus (Alliance)</b></font><br/><font color='#797c58'></font>]]>
+		</ITEM>
+
+		<ITEM id='a5' text='Rut’theran'>
+
+<![CDATA[<font color='#81a408'><b>Rut’theran (Alliance)</b></font><br/><font color='#797c58'>Maître de vol, pêcheur, fournitures de pêche<br/>Trajet en bateau vers Auberdine en Kalimdor</font>]]>
+		</ITEM>
+	</FILE>
+
+
+	<FILE filename='kalimFeralas.swf'  swftitle='Féralas'>
+		<ITEM id='a1' text='Thalanaar'>
+<![CDATA[<font color='#81a408'><b>Thalanaar (Alliance)</b></font><br/><font color='#797c58'>Maître de vol, puits de lune, maître des artisans du cuir tribal, fournitures de tailleur, marchand d’armures de cuir</font>]]>
+		</ITEM>
+
+		<ITEM id='a2' text='Les Colosses jumeaux'>
+
+<![CDATA[<font color='#81a408'><b>Les Colosses jumeaux</b></font><br/><font color='#797c58'>Marchand de parachutes</font>]]>
+		</ITEM>
+
+		<ITEM id='a3' text='La Côte oubliée'>
+<![CDATA[<font color='#81a408'><b>La Côte oubliée (Neutre)</b></font><br/><font color='#797c58'>Trajet en bateau vers le Bastion de Pennelune (Alliance)</font>]]>
+		</ITEM>
+
+		<ITEM id='a4' text='Bastion de Pennelune'>
+<![CDATA[<font color='#81a408'><b>Bastion de Pennelune (Alliance)</b></font><br/><font color='#797c58'>Auberge, boîte aux lettres, maître de vol, maître des écuries, enchanteur - expert, alchimiste - maître, maître des pêcheurs, fournitures d’artisanat, fournitures d’artisan du cuir, marchand de composants, marchand de nourriture & boissons, marchand d’armures en étoffe, fournitures générales, marchand de poissons, fournitures de pêche, fournitures d’alchimie<br/>Trajet en bateau pour La Côte oubliée (Alliance)</font>]]>
+		</ITEM>
+
+		<ITEM id='a5' text='Hache-tripes'>
+
+<![CDATA[<font color='#81a408'><b>Hache-tripes (Donjon)</b></font><br/><font color='#797c58'>5 joueurs maximum<br/>Niveaux 54-61<br/></font>]]>
+		</ITEM>
+
+		<ITEM id='a6' text='Camp Mojache'>
+<![CDATA[<font color='#81a408'><b>Camp Mojache (Horde)</b></font><br/><font color='#797c58'>Auberge, boîte aux lettres, maître de vol, maître des écuries, maître des druides, artisans du cuir - maître, maître des dépeceurs, maître des herboristes, fournitures d’artisan du cuir, fournitures d’artisanat, marchand d’armures de cuir, marchand de composants, fournitures d’alchimie, marchand de nourriture & boissons, fabricant d’armes à feu & arcs</font>]]>
+		</ITEM>
+	</FILE>
+
+
+	<FILE filename='kalimBloodmyst.swf'  swftitle='Ile de Brume-sang'>
+		<ITEM id='a1' text='La croisée de Kessel'>
+
+<![CDATA[<font color='#81a408'><b>La croisée de Kessel (Alliance)</b></font><br/><font color='#797c58'>Marchand de nourriture & boissons</font>]]>
+		</ITEM>
+
+		<ITEM id='a2' text='Guet du sang'>
+<![CDATA[<font color='#81a408'><b>Guet du sang (Alliance)</b></font><br/><font color='#797c58'>Auberge, boîte aux lettres, maître des écuries, maître de vol, maître des mineurs, maître des premiers soins, maître des herboristes, fabricant d’arcs, fournitures d’artisanat, fournitures générales, forge, enclume</font>]]>
+		</ITEM>
+
+		<ITEM id='a3' text='Le Reflux sanglant'>
+<![CDATA[<font color='#81a408'><b>Le Reflux sanglant (Alliance)</b></font><br/><font color='#797c58'>Fournitures générales & d’artisanat</font>]]>
+		</ITEM>
+	</FILE>
+
+
+	<FILE filename='kalimAzuremyst.swf'  swftitle='Ile de Brume-azur'>
+		<ITEM id='a1' text='Point d’impact'>
+<![CDATA[<font color='#81a408'><b>Point d’impact (Alliance)</b></font><br/><font color='#797c58'>Maître des prêtres, maître des paladins, maître des mages, maître des chamans, maître des guerriers, maître des chasseurs, fabricant d’armes, fournitures générales, marchand d’armures en étoffe & en cuir, armurier</font>]]>
+		</ITEM>
+
+		<ITEM id='a2' text='Guet d’azur'>
+<![CDATA[<font color='#81a408'><b>Guet d’azur (Alliance)</b></font><br/><font color='#797c58'>Auberge, boîte aux lettres, maître des écuries, maître des guerriers, maître des paladins, maître des mages, maître des chamans, maître des prêtres, maître des chasseurs, maître des familiers, ingénieur - compagnon, maître des herboristes, alchimiste - compagnon, maître des premiers soins, fournitures générales, fournitures d’artisanat, maître des pêcheurs & Fournitures (Alliance, Gué d'Ammen), maître des mineurs, marchand d’armures en étoffe & en cuir, marchand d’armes et fournitures d’armures, forge, enclume</font>]]>
+		</ITEM>
+
+		<ITEM id='a3' text='Point d’accostage d’Odesyus'>
+
+<![CDATA[<font color='#81a408'><b>Point d’accostage d’Odesyus (Alliance)</b></font><br/><font color='#797c58'>Forgeron - expert, fournitures de forgeron, fournitures générales, maître des cuisiniers et fournitures, tailleur - compagnon, forge, enclume</font>]]>
+		</ITEM>
+
+		<ITEM id='a4' text='Amarrage de Valaar'>
+<![CDATA[<font color='#81a408'><b>Amarrage de Valaar (Alliance)</b></font><br/><font color='#797c58'>Maître des druides<br/>Trajet en bateau vers Sombrivage</font>]]>
+		</ITEM>
+
+		<ITEM id='a5' text='Repaire des Calmepins'>
+<![CDATA[<font color='#81a408'><b>Repaire des Calmepins (Alliance)</b></font><br/><font color='#797c58'>Maître des dépeceurs, artisan du cuir - compagnon, fournitures générales, fournitures d’artisanat</font>]]>
+		</ITEM>
+
+		<ITEM id='a6' text='L’Exodar'>
+
+<![CDATA[<font color='#81a408'><b>L’Exodar (Alliance)</b></font><br/><font color='#797c58'></font>]]>
+		</ITEM>
+	</FILE>
+
+
+
+
+
+	<FILE filename='eastStranglethorn.swf'  swftitle='Vallée de Strangleronce'>
+		<ITEM id='a1' text='Camp rebelle'>
+<![CDATA[<font color='#81a408'><b>Camp rebelle (Alliance)</b></font><br/><font color='#797c58'>Fournitures générales</font>]]>
+		</ITEM>
+
+		<ITEM id='a2' text='Expédition de Nesingwary'>
+<![CDATA[<font color='#81a408'><b>Expédition de Nesingwary</b></font><br/><font color='#797c58'>Excellent fabriquant de haches</font>]]>
+		</ITEM>
+
+		<ITEM id='a3' text='Ile de Yojamba'>
+<![CDATA[<font color='#81a408'><b>Ile de Yojamba (Neutre)</b></font><br/><font color='#797c58'>Quêtes de Zul’Gurub<br/>Marchands de la tribu Zandalar</font>]]>
+		</ITEM>
+
+		<ITEM id='a4' text='Vallée de Strangleronce'>
+<![CDATA[<font color='#81a408'><b>Vallée de Strangleronce</b></font><br/><font color='#797c58'>Artisan forgeron de L’ordre du Mithril (PNJ donneurs de quêtes)</font>]]>
+		</ITEM>
+
+		<ITEM id='a5' text='Campement Grom’gol (Horde)'>
+<![CDATA[<font color='#81a408'><b>Campement Grom’gol (Horde)</b></font><br/><font color='#797c58'>Auberge, boîte aux lettres, maître de vol, maître des écuries, Aéroport, maître des chasseurs, maître des familiers, maître des herboristes, excellent cuisinier, artisan du cuir - expert, fournitures générales, marchand de nourriture & boissons, fournitures d’artisanat, excellent fabriquant fournitures d’armes, excellent fabriquant d’armures, marchand d’armures en étoffe & en cuir, forge, enclume<br/>Trajet en Zeppelin vers les Clairières de Tirisfal et vers Orgrimmar en Kalimdor</font>]]>
+		</ITEM>
+
+		<ITEM id='a6' text='Le Rivage cruel'>
+<![CDATA[<font color='#81a408'><b>Le Rivage cruel (Neutre)</b></font><br/><font color='#797c58'>Fournitures de tailleur</font>]]>
+		</ITEM>
+
+		<ITEM id='a7' text='Baie-du-Butin'>
+<![CDATA[<font color='#81a408'><b>Baie-du-Butin (Neutre)</b></font><br/><font color='#797c58'>Auberge, boîte aux lettres, maître de vol, maître des écuries, hôtel des ventes neutre, banque, maître des pêcheurs, ingénieur en chef, cuisinier, maître des forgerons, tailleur - expert, alchimiste - expert, fournitures d’alchimie, marchand de lames, marchand de nourriture & boissons, armures en étoffe et accessoires, fournitures d’artisan du cuir, fournitures de tailleur, fournitures de forgeron, fournitures de pirate, excellent fabriquant fournitures d’arcs, fournitures d’ingénieur, fabriquant de masses, excellent fabriquant fournitures d’armes, marchand de poissons, marchand de poissons & fournitures, excellent fabriquant d’armures, forge, enclume<br/>Trajet en bateau vers Cabestan</font>]]>
+		</ITEM>
+
+		<ITEM id='a8' text='Zul’Gurub'>
+<![CDATA[<font color='#81a408'><b>Zul’Gurub (Donjon)</b></font><br/><font color='#797c58'>20 joueurs maximum<br/>Niveau 60<br/></font>]]>
+		</ITEM>
+	</FILE>
+
+
+	<FILE filename='eastDuskwood.swf'  swftitle='Bois de la Pénombre'>
+		<ITEM id='a1' text='Sombre-comté'>
+<![CDATA[<font color='#81a408'><b>Sombre-comté (Alliance)</b></font><br/><font color='#797c58'>Auberge, boîte aux lettres, maître de vol, maître des écuries, ingénieur - expert, maître des mineurs, fournitures générales, tavernier, fournitures d’artisanat, fabricant d’arcs, forgeron - expert, armurier, fabricant d’armes, marchand de champignons, marchand de composants, fournitures de tailleur, fournitures d’ingénieur et de mineur, fournitures douteuses, forge, enclume</font>]]>
+		</ITEM>
+
+		<ITEM id='a2' text='Colline-aux-Corbeaux'>
+<![CDATA[<font color='#81a408'><b>Colline-aux-Corbeaux (Neutre)</b></font><br/><font color='#797c58'>fournitures d’alchimie</font>]]>
+		</ITEM>
+	</FILE>
+
+
+	<FILE filename='eastDunMorogh.swf'  swftitle='Dun Morogh'>
+		<ITEM id='a1' text='Carrière de Gol’Bolar'>
+<![CDATA[<font color='#81a408'><b>Carrière de Gol’Bolar (Alliance)</b></font><br/><font color='#797c58'>Maître des cuisiniers, maître des mineurs, marchand d’armes, marchand de nourriture & boissons</font>]]>
+		</ITEM>
+
+		<ITEM id='a2' text='Ferme des Distillambre'>
+<![CDATA[<font color='#81a408'><b>Ferme des Distillambre (Alliance)</b></font><br/><font color='#797c58'>Maître de monte (bélier), Éleveur de béliers, Fabricant d’armes nain</font>]]>
+		</ITEM>
+
+		<ITEM id='a3' text='Dépôt de Grillacier'>
+<![CDATA[<font color='#81a408'><b>Dépôt de Grillacier (Alliance)</b></font><br/><font color='#797c58'>Pilote de mécanotrotteurs, Marchand de mécanotrotteur, maître des mineurs, ingénieur - compagnon, fournitures d’ingénieur</font>]]>
+		</ITEM>
+
+		<ITEM id='a4' text='Kharanos'>
+<![CDATA[<font color='#81a408'><b>Kharanos (Alliance)</b></font><br/><font color='#797c58'>Auberge, boîte aux lettres, maître des écuries, maître des paladins, maître des mages, maître des prêtres, maître des guerriers, maître des voleurs, maître des démonistes, maître des démons, maître des chasseurs, maître des familiers, maître des cuisiniers, forgeron - expert, fournitures générales, fournitures d’artisanat, fournitures d’artisanat, fabricant d’armes, marchand d’armures en étoffe & en cuir, armurier, fournitures de forgeron, forge, enclume</font>]]>
+		</ITEM>
+
+		<ITEM id='a5' text='Dun Morogh'>
+<![CDATA[<font color='#81a408'><b>Dun Morogh (Alliance)</b></font><br/><font color='#797c58'>Fabricant d’armes à feu</font>]]>
+		</ITEM>
+
+		<ITEM id='a6' text='Brassetout'>
+<![CDATA[<font color='#81a408'><b>Brassetout (Alliance)</b></font><br/><font color='#797c58'>marchand d’armures de cuir, marchand de boissons</font>]]>
+		</ITEM>
+
+		<ITEM id='a7' text='Gnomeregan'>
+<![CDATA[<font color='#81a408'><b>Gnomeregan (Donjon)</b></font><br/><font color='#797c58'><font color='#797c58'>5 joueurs maximum<br/>Niveaux 24-40<br/></font>]]>
+		</ITEM>
+
+		<ITEM id='a8' text='Vallée des Frigères'>
+<![CDATA[<font color='#81a408'><b>Vallée des Frigères (Alliance)</b></font><br/><font color='#797c58'>Maître des paladins, maître des mages, maître des chasseurs, maître des prêtres, maître des guerriers, maître des voleurs, maître des démonistes, maître des démons, fournitures générales, marchand d’armures en étoffe & en cuir, armurier, fabricant d’armes, forge, enclume</font>]]>
+		</ITEM>
+
+		<ITEM id='a9' text='Forgefer'>
+<![CDATA[<font color='#81a408'><b>Forgefer (Alliance)</b></font><br/><font color='#797c58'></font>]]>
+		</ITEM>
+	</FILE>
+
+
+	<FILE filename='eastHinterlands.swf'  swftitle='Les Hinterlands'>
+
+		<ITEM id='a1' text='Village des Vengebroches'>
+<![CDATA[<font color='#81a408'><b>Village des Vengebroches (Horde)</b></font><br/><font color='#797c58'>Auberge, boîte aux lettres, maître de vol, maître des écuries, fournitures de forgeron, vendeur de munitions, marchand de composants, fournitures de cuisinier, fournitures de pêche, forge, enclume</font>]]>
+		</ITEM>
+
+		<ITEM id='a2' text='Donjon des Marteaux-hardis'>
+<![CDATA[<font color='#81a408'><b>Donjon des Marteaux-hardis (Alliance)</b></font><br/><font color='#797c58'>Auberge, boîte aux lettres, maître de vol, maître des écuries, artisan du cuir - maître, fournitures d’artisan du cuir, tavernier, fournitures de forgeron</font>]]>
+		</ITEM>
+	</FILE>
+
+
+
+	<FILE filename='eastEasternPlaguelands.swf'  swftitle='Maleterres de l’est'>
+
+		<ITEM id='a1' text='Chapelle de l’Espoir de Lumière'>
+<![CDATA[<font color='#81a408'><b>Chapelle de l’Espoir de Lumière (Neutre)</b></font><br/><font color='#797c58'>Auberge, boîte aux lettres, maître de vol, intendant de l’Aube fournitures d’argent, fournitures de forgeron (vous devez être au moins amical à l’Aube fournitures d’argent pour qu'il répare votre équipement), fournitures d’artisanat, enclume, forge</font>]]>
+		</ITEM>
+
+		<ITEM id='a2' text='Stratholme'>
+<![CDATA[<font color='#81a408'><b>Stratholme (Donjon)</b></font><br/><font color='#797c58'>5 joueurs maximum<br/>Niveaux 56-61<br/></font>]]>
+		</ITEM>
+
+		<ITEM id='a3' text='Naxxramas'>
+<![CDATA[<font color='#81a408'><b>Naxxramas (Donjon)</b></font><br/><font color='#797c58'>40 joueurs maximum<br/>Niveau 60<br/></font>]]>
+		</ITEM>
+
+	</FILE>
+
+
+
+	<FILE filename='eastLochModan.swf'  swftitle='Loch Modan'>
+		<ITEM id='a1' text='Le Loch'>
+<![CDATA[<font color='#81a408'><b>Le Loch (Alliance)</b></font><br/><font color='#797c58'>Maître des pêcheurs, fournitures de pêche</font>]]>
+		</ITEM>
+
+		<ITEM id='a2' text='Poste d’Algaz'>
+<![CDATA[<font color='#81a408'><b>Poste d’Algaz (Alliance)</b></font><br/><font color='#797c58'>Armurier</font>]]>
+		</ITEM>
+
+		<ITEM id='a3' text='Barrage de Formepierre'>
+<![CDATA[<font color='#81a408'><b>Barrage de Formepierre (Alliance)</b></font><br/><font color='#797c58'>Fabriquant de masses, ingénieur - compagnon</font>]]>
+		</ITEM>
+
+		<ITEM id='a4' text='Le pavillon des Pérégrins'>
+<![CDATA[<font color='#81a408'><b>Le pavillon des Pérégrins (Alliance)</b></font><br/><font color='#797c58'>Maître des chasseurs, maître des familiers, fournitures générales, marchand d’armures de cuir, fabricant d’armes à feu</font>]]>
+		</ITEM>
+
+		<ITEM id='a5' text='Excavations de Baguefer'>
+<![CDATA[<font color='#81a408'><b>Excavations de Baguefer (Alliance)</b></font><br/><font color='#797c58'>marchand d’armures en étoffe</font>]]>
+		</ITEM>
+
+		<ITEM id='a6' text='Thelsamar'>
+<![CDATA[<font color='#81a408'><b>Thelsamar (Alliance)</b></font><br/><font color='#797c58'>Auberge, boîte aux lettres, maître de vol, maître des écuries, maître des mineurs, maître des herboristes, alchimiste - compagnon, marchand itinérant, forgeron, fournitures générales, fournitures de tailleur, fournitures de mineur, forge, enclume</font>]]>
+		</ITEM>
+	</FILE>
+
+
+	<FILE filename='eastBurningSteppes.swf'  swftitle='Steppes ardentes'>
+		<ITEM id='a1' text='Veille de Morgan'>
+<![CDATA[<font color='#81a408'><b>Veille de Morgan (Alliance)</b></font><br/><font color='#797c58'>Maître de vol, fabricant d’armes, marchand de nourriture & boissons</font>]]>
+		</ITEM>
+
+		<ITEM id='a2' text='Corniche des flammes'>
+<![CDATA[<font color='#81a408'><b>Corniche des flammes (Horde)</b></font><br/><font color='#797c58'>Maître de vol, marchand de nourriture & boissons</font>]]>
+		</ITEM>
+	</FILE>
+
+
+	<FILE filename='eastRedridgeMountains.swf'  swftitle='Les Carmines'>
+		<ITEM id='a1' text='Comté-du-lac'>
+<![CDATA[<font color='#81a408'><b>Comté-du-lac (Alliance)</b></font><br/><font color='#797c58'>Auberge, boîte aux lettres, maître de vol, maître des écuries, maître des herboristes, maître des cuisiniers, maître des pêcheurs, vendeur de munitions, marchand de nourriture & boissons, boucher, fournitures de cuisinier, fournitures de tailleur, fabricant d’armes à feu, fournitures douteuses, fabricant de boucliers, armurier, fournitures minières et de forge, fournitures d’artisanat, fournitures générales, marchand de poissons & fournitures, vendeur de fruits, forge, enclume</font>]]>
+		</ITEM>
+
+		<ITEM id='a2' text='Les Carmines'>
+<![CDATA[<font color='#81a408'><b>Les Carmines (Alliance)</b></font><br/><font color='#797c58'>Maître des dépeceurs, fournitures d’artisan du cuir, marchand d’armures de cuir</font>]]>
+		</ITEM>
+
+		<ITEM id='a3' text='Vallée des Etripeurs'>
+<![CDATA[<font color='#81a408'><b>Vallée des Etripeurs (Alliance)</b></font><br/><font color='#797c58'>Fournitures de tailleur spécialiste</font>]]>
+		</ITEM>
+	</FILE>
+
+
+	<FILE filename='eastWestfall.swf'  swftitle='Marche de l’Ouest'>
+
+		<ITEM id='a1' text='Ferme des Saldean'>
+<![CDATA[<font color='#81a408'><b>Ferme des Saldean (Alliance)</b></font><br/><font color='#797c58'>boulanger</font>]]>
+		</ITEM>
+
+		<ITEM id='a2' text='Colline des sentinelles'>
+<![CDATA[<font color='#81a408'><b>Colline des sentinelles (Alliance)</b></font><br/><font color='#797c58'>Auberge, boîte aux lettres, maître de vol, maître des écuries, fournitures d’artisanat, boulanger, fabricant d’arcs, intendant</font>]]>
+		</ITEM>
+
+		<ITEM id='a3' text='Les Mortemines'>
+<![CDATA[<font color='#81a408'><b>Les Mortemines (Donjon)</b></font><br/><font color='#797c58'>5 joueurs maximum<br/>Niveaux 15-28<br/></font>]]>
+		</ITEM>
+
+	</FILE>
+
+
+	<FILE filename='eastWesternPlaguelands.swf'  swftitle='Maleterres de l’ouest'>
+		<ITEM id='a1' text='Scholomance'>
+<![CDATA[<font color='#81a408'><b>Scholomance (Donjon)</b></font><br/><font color='#797c58'>5 joueurs maximum<br/>Niveaux 56-61<br/></font>]]>
+		</ITEM>
+
+		<ITEM id='a2' text='Camp du Noroît'>
+<![CDATA[<font color='#81a408'><b>Camp du Noroît (Alliance)</b></font><br/><font color='#797c58'>Maître de vol, intendant de l’Aube d’argent, marchand de nourriture & boissons, fabricant d’arcs, fabricant d’arcs</font>]]>
+		</ITEM>
+
+	</FILE>
+
+
+	<FILE filename='eastStormwind.swf'  swftitle='Hurlevent'>
+		<ITEM id='a1' text='Hurlevent'>
+<![CDATA[<font color='#81a408'><b>Hurlevent</b></font><br/><font color='#797c58'>1. Maître des ingénieurs; 2. Maître des mineurs; 3. Maître des forgerons; 4. Tram des profondeurs; 5. Maître des écuries; 6. Maître des chasseurs; 7. Maître de guerres; 8. Maître des premiers soins; 9. Maître des paladins; 10. Maître des prêtres; 11. Maître des cuisiniers; 12. Maître des artisans du cuir; 13. Maître des dépeceurs; 14. Maître des guerriers; 15. Mess des officiers; 16. Maître des voleurs; 17. Maître des druides; 18. Maître des démonistes; 19. Maître des mages; 20. Maître des alchimistes; 21. Maître des herboristes; 22. Maître des tailleurs; 23. Maître des enchanteurs; 24. Maître des pêcheurs; 25. Hôtel des ventes; 26. Maître d’armes; 27. Auberge; 28. Boîte aux lettres; 29. Banque; 30. Maître des guildes; 31. Maître des griffons; 32. Maître des chamans</font>]]>
+		</ITEM>
+	</FILE>
+
+
+	<FILE filename='eastSwamp.swf'  swftitle='Marais des Chagrins'>
+
+		<ITEM id='a1' text='Pierrêche'>
+<![CDATA[<font color='#81a408'><b>Pierrêche (Horde)</b></font><br/><font color='#797c58'>Auberge, boîte aux lettres, maître de vol, maître des écuries, alchimiste - maître, maître des démonistes, maître des démons, maître des guerriers, maître des chamans, maître des chasseurs, maître des familiers, fournitures d’artisanat, fournitures d’alchimie, marchand de nourriture & boissons, fournitures de forgeron, fabricant d’armes, marchand d’armures en étoffe & en cuir, marchand d’armures lourdes, marchand de fournitures magiques, forge, enclume</font>]]>
+		</ITEM>
+
+		<ITEM id='a2' text='Le Havre boueux'>
+<![CDATA[<font color='#81a408'><b>Le Havre boueux</b></font><br/><font color='#797c58'>Excellent artisan du cuir</font>]]>
+		</ITEM>
+
+		<ITEM id='a3' text='Le Temple d’Atal’Hakkar'>
+<![CDATA[<font color='#81a408'><b>Le Temple d’Atal’Hakkar (Donjon)</b></font><br/><font color='#797c58'>5 joueurs maximum<br/>Niveaux 44-60<br/></font>]]>
+		</ITEM>
+
+	</FILE>
+
+
+	<FILE filename='eastSilvermoon.swf'  swftitle='Lune d’argent'>
+		<ITEM id='a1' text='Lune d’argent'>
+<![CDATA[<font color='#81a408'><b>Lune d’argent</b></font><br/><font color='#797c58'>1. Maître des mages; 2. Maître des prêtres; 3. Maître des alchimistes; 4.Maître des herboristes; 5. Maître des enchanteurs; 6. Maître des chasseurs; 7. Maître des écuries; 8. Maître des ingénieurs; 9. Maître des démonistes; 10. Maître des forgerons; 11. Maître des mineurs; 12. Maître d’armes; 13. Maître des paladins; 14. Maître de guerre; 15. La banque de l’est; 16. Métier à tisser le mana; 17. Maître des tailleurs; 18. L’hôtel des ventes de l’ouest; 19. Maître des druides; 20. Maître des voleurs; 21. Boîte aux lettres; 22. Auberge; 23. L’hôtel des ventes de l’est; 24. Maître des cuisiniers; 25. Le Repos du voyageur; 26. La banque de l’ouest; 27. Maître des pêcheurs; 28. Maître des premiers soins; 29. Maître des guildes; 30. Maître des dépeceurs; 31. Maître des artisans du cuir; 32. Maître des joailliers; 33. Eleveur de chauve-souris</font>]]>
+		</ITEM>
+	</FILE>
+
+
+	<FILE filename='eastArathi.swf'  swftitle='Hautes-terres d’Arathi'>
+
+		<ITEM id='a1' text='Refuge de l’Ornière'>
+<![CDATA[<font color='#81a408'><b>Refuge de l’Ornière (Alliance)</b></font><br/><font color='#797c58'>Maître de vol, Officier de ravitaillement de la Ligue d’Arathor, maître de guerre du bassin d’Arathi, gourmandises Fumebois, fournitures d’alchimie, fournitures d’artisanat, fournitures générales, excellent fabriquant de masses, boucher, fournitures d’artisan du cuir, forge, enclume</font>]]>
+		</ITEM>
+
+		<ITEM id='a2' text='Stromgarde'>
+<![CDATA[<font color='#81a408'><b>Stromgarde (Alliance)</b></font><br/><font color='#797c58'>Expert en premiers soins - Sous les pansements, Manuel : Bandage épais en soie et Manuel : Bandage en tisse-mage</font>]]>
+		</ITEM>
+
+		<ITEM id='a3' text='Artisan du cuir - Maître élémentaire'>
+<![CDATA[<font color='#81a408'><b>Artisan du cuir - Maître élémentaire (Horde)</b></font><br/><font color='#797c58'></font>]]>
+		</ITEM>
+
+		<ITEM id='a4' text='La Crique de Faldir'>
+<![CDATA[<font color='#81a408'><b>La Crique de Faldir (Neutre)</b></font><br/><font color='#797c58'></font>]]>
+		</ITEM>
+
+		<ITEM id='a5' text='Trépas-d’Orgrim'>
+<![CDATA[<font color='#81a408'><b>Trépas-d’Orgrim (Horde)</b></font><br/><font color='#797c58'>Auberge, boîte aux lettres, maître de vol, maître des écuries, officier de ravitaillement des Profanateurs, maître de guerre du bassin d’Arathi, gourmandises Fumebois, excellent cuisinier, boucher, fournitures générales, fournitures d’artisanat, fournitures d’artisan du cuir, fabricant d’arcs, chirurgien, fournitures de tailleur, forge, enclume</font>]]>
+		</ITEM>
+	</FILE>
+
+
+
+	<FILE filename='eastIronforge.swf'  swftitle='Forgefer'>
+		<ITEM id='a1' text='Forgefer'>
+<![CDATA[<font color='#81a408'><b>Forgefer</b></font><br/><font color='#797c58'>1. Maître des prêtres; 2. Maître des mages; 3. Maître des paladins; 4. Maître des pêcheurs; 5. Maître des démonistes; 6. Maître des voleurs; 7. Maître des dépeceurs; 8. Maître des artisans du cuir; 9. Maître des tailleurs; 10. Maître des mineurs; 11. Maître des chamans; 12. Maître des cuisiniers; 13. Maître des forgerons; 14. Maître des griffons; 15. Maître des enchanteurs; 16. Maître des ingénieurs; 17. Maître des premiers soins; 18. Maître des herboristes; 19. Maître des alchimistes; 20. Tram des profondeurs; 21. Auberge; 22. Boîte aux lettres; 23. Banque; 24. Hôtel des ventes; 25. Maître des guildes; 26. Maître d’armes; 27. Maître des écuries; 28. Maître des chasseurs; 29. Maître des guerriers; 30. Maître de guerre</font>]]>
+		</ITEM>
+	</FILE>
+
+
+	<FILE filename='eastAlterac.swf'  swftitle='Montagnes d’Alterac'>
+		<ITEM id='a1' text='Vallée d’Alterac'>
+<![CDATA[<font color='#81a408'><b>Vallée d’Alterac (Alliance)</b></font><br/><font color='#797c58'>Intendant Foudrepique, gourmandises Fumebois, maître de guerre de la Vallée d’Alterac</font>]]>
+		</ITEM>
+
+		<ITEM id='a2' text='Ruines d’Alterac'>
+<![CDATA[<font color='#81a408'><b>Ruines d’Alterac (Neutre)</b></font><br/><font color='#797c58'>fournitures d’alchimie</font>]]>
+		</ITEM>
+
+		<ITEM id='a3' text='Vallée d’Alterac'>
+<![CDATA[<font color='#81a408'><b>Vallée d’Alterac (Horde)</b></font><br/><font color='#797c58'>Intendant Loup-de-givre, gourmandises Fumebois, maître de guerre de la Vallée d’Alterac</font>]]>
+		</ITEM>
+
+		<ITEM id='a4' text='Manoir de Ravenholdt'>
+<![CDATA[<font color='#81a408'><b>Manoir de Ravenholdt (Neutre)</b></font><br/><font color='#797c58'>Ingénieur spécialiste, fournitures douteuses</font>]]>
+		</ITEM>
+
+	</FILE>
+
+
+	<FILE filename='eastUndercity.swf'  swftitle='Fossoyeuse'>
+		<ITEM id='a1' text='Fossoyeuse'>
+<![CDATA[<font color='#81a408'><b>Fossoyeuse</b></font><br/><font color='#797c58'>1. Maître des guerriers; 2. Maître des prêtres; 3. Maître des démonistes; 4. Maître des mages; 5. Maître des forgerons; 6. Maître des tailleurs; 7. Maître d’armes; 8. Maître des mineurs; 9. Hôtel des ventes; 10. Auberge; 11. Maître des écuries; 12. Boîte aux lettres; 13. Maître des cuisiniers; 14. Banque; 15. Maître des guildes; 16. Maître des pêcheurs; 17. Maître des herboristes; 18.Maître des enchanteurs; 19.Bat Handler; 20. Maître des enchanteurs; 20. Maître des artisans du cuir; 21. Maître des dépeceurs; 22. Maître des premiers soins; 23. Maître des alchimistes; 24. Maître des ingénieurs; 25. Maître des voleurs; 26. Maître de guerre; 27. Maître des paladins</font>]]>
+		</ITEM>
+	</FILE>
+
+
+	<FILE filename='eastElwynn.swf'  swftitle='Forêt d’Elwynn'>
+
+		<ITEM id='a1' text='Comté-du-nord'>
+<![CDATA[<font color='#81a408'><b>Comté-du-nord (Alliance)</b></font><br/><font color='#797c58'>Maître des voleurs, maître des démonistes, maître des démons, maître des prêtres, maître des mages, maître des guerriers, maître des paladins, fournitures générales, armures & boucliers, marchand d’armures en étoffe & en cuir, fabricant d’armes</font>]]>
+		</ITEM>
+
+		<ITEM id='a2' text='Comté-de-l’or'>
+<![CDATA[<font color='#81a408'><b>Comté-de-l’or (Alliance)</b></font><br/><font color='#797c58'>Auberge, boîte aux lettres, maître des écuries, maître des premiers soins, maître des cuisiniers, maître des paladins, maître des guerriers, maître des voleurs, maître des mages, maître des prêtres, maître des démonistes, maître des démons, , forgeron - expert, fournitures générales, tavernier, boucher, fournitures d’artisanat, armures & boucliers, fabricant d’armes, marchand d’armures en étoffe, enclume, forge</font>]]>
+		</ITEM>
+
+		<ITEM id='a3' text='Comté-de-l’or'>
+<![CDATA[<font color='#81a408'><b>Comté-de-l’or (Alliance)</b></font><br/><font color='#797c58'>Artisan du cuir - compagnon, maître des dépeceurs, maître des pêcheurs</font>]]>
+		</ITEM>
+
+		<ITEM id='a4' text='Forêt d’Elwynn'>
+<![CDATA[<font color='#81a408'><b>Forêt d’Elwynn (Alliance)</b></font><br/><font color='#797c58'>Alchimiste - compagnon, maître des herboristes</font>]]>
+		</ITEM>
+
+		<ITEM id='a5' text='Tour d’Azora'>
+<![CDATA[<font color='#81a408'><b>Tour d’Azora (Alliance)</b></font><br/><font color='#797c58'>Enchanteur - artisan, marchand de fournitures magiques, marchand d’armures en étoffe</font>]]>
+		</ITEM>
+
+		<ITEM id='a6' text='Camp de bûcherons du Val d’est'>
+<![CDATA[<font color='#81a408'><b>Camp de bûcherons du Val d’est (Alliance)</b></font><br/><font color='#797c58'>Éleveur de chevaux, nouveau maître d’équitation, tailleur - compagnon, Bûcheron, fabricant d’arcs, fournitures générales</font>]]>
+		</ITEM>
+
+		<ITEM id='a7' text='Garnison du ruisseau de l’ouest'>
+<![CDATA[<font color='#81a408'><b>Garnison du ruisseau de l’ouest (Alliance)</b></font><br/><font color='#797c58'>Maître des fabricants d’armes, armures & boucliers, marchand d’armures de cuir, Officier du moral<br/></font>]]>
+		</ITEM>
+
+		<ITEM id='a8' text='Hurlevent'>
+<![CDATA[<font color='#81a408'><b>Hurlevent (Alliance)</b></font><br/><font color='#797c58'><br/></font>]]>
+		</ITEM>
+	</FILE>
+
+
+	<FILE filename='eastEversong.swf'  swftitle='Bois des chants éternels'>
+
+		<ITEM id='a1' text='L’île de Haut-soleil'>
+<![CDATA[<font color='#81a408'><b>L’île de Haut-soleil (Horde)</b></font><br/><font color='#797c58'>Maître des voleurs, maître des chasseurs, maître des prêtres, maître des paladins, maître des mages, maître des démonistes, maître des démons, armurier, fabricant d’armes, marchand d’armures en étoffe & en cuir, fournitures générales</font>]]>
+		</ITEM>
+
+		<ITEM id='a2' text='Ruines de Lune-d’argent'>
+<![CDATA[<font color='#81a408'><b>Ruines de Lune-d’argent (Horde)</b></font><br/><font color='#797c58'>Auberge, boîte aux lettres, maître des écuries, maître des chasseurs, maître des familiers, maître des paladins, maître des voleurs, maître des démonistes, maître des démons, maître des premiers soins, joaillier - compagnon, vendeur de fromages, marchand d’armures lourdes, fabricant d’armes</font>]]>
+		</ITEM>
+
+		<ITEM id='a3' text='Lune d’argent'>
+<![CDATA[<font color='#81a408'><b>Lune d’argent (Horde)</b></font><br/><font color='#797c58'></font>]]>
+		</ITEM>
+
+		<ITEM id='a4' text='Sanctum septentrional'>
+<![CDATA[<font color='#81a408'><b>Sanctum septentrional</b></font><br/><font color='#797c58'>Marchand de sacs</font>]]>
+		</ITEM>
+
+		<ITEM id='a5' text='Retraite des pérégrins'>
+<![CDATA[<font color='#81a408'><b>Retraite des pérégrins</b></font><br/><font color='#797c58'>Forgeron - expert, marchand de nourriture & boissons, fabricant d’arcs, fournitures générales</font>]]>
+		</ITEM>
+
+		<ITEM id='a6' text='Écurie de Thuron'>
+<![CDATA[<font color='#81a408'><b>Écurie de Thuron</b></font><br/><font color='#797c58'>Éleveuse de faucons-pérégrins, instructeur de monte</font>]]>
+		</ITEM>
+
+		<ITEM id='a7' text='Brise-clémente'>
+<![CDATA[<font color='#81a408'><b>Brise-clémente</b></font><br/><font color='#797c58'><font color='#797c58'>Boîte aux lettres, Auberge, fournitures d’artisanat, fournitures générales</font>]]>
+		</ITEM>
+
+		<ITEM id='a8' text='Havre de Saltheril'>
+<![CDATA[<font color='#81a408'><b>Havre de Saltheril</b></font><br/><font color='#797c58'><font color='#797c58'>Enchanteur - compagnon, alchimiste - compagnon, maître des herboristes</font>]]>
+		</ITEM>
+
+		<ITEM id='a9' text='Mouillage des Voiles du soleil'>
+<![CDATA[<font color='#81a408'><b>Mouillage des Voiles du soleil</b></font><br/><font color='#797c58'><font color='#797c58'>vendeur de boissons</font>]]>
+		</ITEM>
+
+	</FILE>
+
+
+	<FILE filename='eastGhostlands.swf'  swftitle='Les Terres fantômes'>
+		<ITEM id='a1' text='Tranquillien'>
+<![CDATA[<font color='#81a408'><b>Tranquillien (Horde)</b></font><br/><font color='#797c58'>Auberge, boîte aux lettres, maître de vol, maître des écuries, maître des cuisiniers et fournitures, fournitures de forgeron, fournitures d’artisanat, approvisionneur de Tranquillien, fournitures douteuses, fournitures générales</font>]]>
+		</ITEM>
+
+		<ITEM id='a2' text='Enclave des Pérégrins'>
+<![CDATA[<font color='#81a408'><b>Enclave des Pérégrins (Horde)</b></font><br/><font color='#797c58'>Marchand de nourriture & boissons, fabricant d’arcs</font>]]>
+		</ITEM>
+
+</FILE>
+
+
+	<FILE filename='eastSilverpine.swf'  swftitle='Forêt des Pins argentés'>
+		<ITEM id='a1' text='Le Sépulcre'>
+<![CDATA[<font color='#81a408'><b>Le Sépulcre (Horde)</b></font><br/><font color='#797c58'>Auberge, boîte aux lettres, maître de vol, maître des écuries, forgeron - expert, maître des mineurs, fournitures douteuses, fournitures d’artisanat, armurier, fournitures générales, marchand de champignons, marchand d’armures de cuir, marchand d’armures en étoffe, fabricant d’arcs</font>]]>
+		</ITEM>
+
+		<ITEM id='a2' text='Donjon d’Ombrecroc'>
+<![CDATA[<font color='#81a408'><b>Donjon d’Ombrecroc (Donjon)</b></font><br/><font color='#797c58'>5 joueurs maximum<br/>Niveaux 18-32<br/></font>]]>
+		</ITEM>
+
+		<ITEM id='a3' text='Le mur de Grisetête'>
+<![CDATA[<font color='#81a408'><b>Le mur de Grisetête (Neutre)</b></font><br/><font color='#797c58'>Fabricant d’armes</font>]]>
+		</ITEM>
+	</FILE>
+
+
+
+	<FILE filename='eastSearingGorge.swf'  swftitle='Gorge des Vents brûlants'>
+		<ITEM id='a1' text='Halte du Thorium'>
+<![CDATA[<font color='#81a408'><b>Halte du Thorium (Neutre)</b></font><br/><font color='#797c58'>Maître des griffons, maître des coursiers du vent, General & fournitures de forgeron, forge, enclume</font>]]>
+		</ITEM>
+
+		<ITEM id='a2' text='Gorge des Vents brûlants'>
+<![CDATA[<font color='#81a408'><b>Gorge des Vents brûlants (Neutre)</b></font><br/><font color='#797c58'>Marchand de cottes de mailles</font>]]>
+		</ITEM>
+
+		<ITEM id='a3' text='Artisan du cuir - Maître élémentaire'>
+<![CDATA[<font color='#81a408'><b>Artisan du cuir - Maître élémentaire (Alliance)</b></font><br/><font color='#797c58'></font>]]>
+		</ITEM>
+
+		<ITEM id='a4' text='Mont Rochenoire'>
+<![CDATA[<font color='#81a408'><b>Mont Rochenoire (Donjon)</b></font><br/><font color='#797c58'><font color='#c49609'>Profondeurs de Rochenoire</font><br/>5 joueurs maximum<br/>Niveaux 48-60<br/><font color='#c49609'>Pic Rochenoire</font><br/>10 joueurs maximum<br/>Niveaux 52-61<br/><font color='#c49609'>Repaire de l’Aile noire</font><br/>40 joueurs maximum<br/>Niveau 60<br/><font color='#c49609'>Cœur du Magma</font><br/>40 joueurs maximum<br/>Niveau 60<br/></font>]]>
+		</ITEM>
+
+	</FILE>
+
+
+	<FILE filename='eastWetlands.swf'  swftitle='Les Paluns'>
+		<ITEM id='a1' text='Port de Menethil'>
+<![CDATA[<font color='#81a408'><b>Port de Menethil (Alliance)</b></font><br/><font color='#797c58'>Auberge, boîte aux lettres, maître de vol, maître des écuries, maître des herboristes, maître des premiers soins, maître des pêcheurs, fournitures d’artisanat, tavernier, fournitures douteuses, marchand de poissons & fournitures, vendeur de munitions, fabricant d’arcs, fabricant d’armes, armurier, fabricant d’armes à feu, fournitures générales, fournitures d’ingénieur, marchand de composants, fournitures d’alchimie, fournitures de tailleur, forge, enclume <br/>Trajet en bateau vers le Marécage d’Âprefange ou Auberdine</font>]]>
+		</ITEM>
+
+		<ITEM id='a2' text='Marais du couchant'>
+<![CDATA[<font color='#81a408'><b>Marais du couchant (Alliance)</b></font><br/><font color='#797c58'>Fournitures d’ingénieur, fournitures spéciales</font>]]>
+		</ITEM>
+
+		<ITEM id='a3' text='Les Paluns'>
+<![CDATA[<font color='#81a408'><b>Les Paluns (Neutre)</b></font><br/><font color='#797c58'>fournitures d’alchimie</font>]]>
+		</ITEM>
+
+		<ITEM id='a4' text='Dun Modr'>
+<![CDATA[<font color='#81a408'><b>Dun Modr (Neutre)</b></font><br/><font color='#797c58'>Fournitures spéciales (Entrepreneur Sombrefer)</font>]]>
+		</ITEM>
+	</FILE>
+
+
+	<FILE filename='eastBlastedLands.swf'  swftitle='Terres foudroyées'>
+
+		<ITEM id='a1' text='Rempart-du-Néant'>
+<![CDATA[<font color='#81a408'><b>Rempart-du-Néant (Alliance)</b></font><br/><font color='#797c58'>Boîte aux lettres, maître de vol, marchand de nourriture & boissons, armurier, fournitures d’alchimie</font>]]>
+		</ITEM>
+
+		<ITEM id='a2' text='La Porte des ténèbres'>
+<![CDATA[<font color='#81a408'><b>La Porte des ténèbres (Neutre)</b></font><br/><font color='#797c58'>Niveau 58 requis</font>]]>
+		</ITEM>
+	</FILE>
+
+
+	<FILE filename='eastDeadwindPass.swf'  swftitle='Défilé de Deuillevent'>
+
+		<ITEM id='a1' text='Karazhan'>
+<![CDATA[<font color='#81a408'><b>Karazhan (Donjon)</b></font><br/><font color='#797c58'>10 joueurs maximum<br/>Niveau 70<br/></font>]]>
+		</ITEM>
+	</FILE>
+
+
+	<FILE filename='eastTirisfal.swf'  swftitle='Clairières de Tirisfal'>
+		<ITEM id='a1' text='Le Glas'>
+<![CDATA[<font color='#81a408'><b>Le Glas (Horde)</b></font><br/><font color='#797c58'>Maître des démonistes, maître des démons, maître des mages, maître des prêtres, maître des voleurs, maître des guerriers, apprenti armurier, fabricant d’armes, marchand d’armures en étoffe & en cuir, fournitures générales</font>]]>
+		</ITEM>
+
+		<ITEM id='a2' text='Brill'>
+<![CDATA[<font color='#81a408'><b>Brill (Horde)</b></font><br/><font color='#797c58'>Auberge, boîte aux lettres, maître des écuries, instructeur de monte, marchand de chevaux mort-vivant, maître des guerriers, maître des mages, maître des démonistes, maître des démons, maître des prêtres, maître des voleurs, maître des premiers soins, enchanteur - compagnon, tailleur - compagnon (manoir abandonné), apprenti herboriste, alchimiste - compagnon, marchand d’armures en étoffe, fournitures générales, fournitures d’artisanat, fabricant d’armes, apprenti armurier, marchand d’armures de cuir, marchand de champignons</font>]]>
+		</ITEM>
+
+		<ITEM id='a3' text='Fossoyeuse'>
+<![CDATA[<font color='#81a408'><b>Fossoyeuse (Horde)</b></font><br/><font color='#797c58'></font>]]>
+		</ITEM>
+
+		<ITEM id='a4' text='La Barricade'>
+<![CDATA[<font color='#81a408'><b>La Barricade (Horde)</b></font><br/><font color='#797c58'>Fournitures pour artisans du cuir, intendant de l’Aube d’argent</font>]]>
+		</ITEM>
+
+		<ITEM id='a5' text='Aéroport'>
+<![CDATA[<font color='#81a408'><b>Zeppelin (Horde)</b></font><br/><font color='#797c58'>Maître des dépeceurs, artisan du cuir - compagnon <br/>Trajet en Zeppelin vers Orgrimmar et le Campement Grom'gol</font>]]>
+		</ITEM>
+	</FILE>
+
+
+
+	<FILE filename='eastBadlands.swf'  swftitle='Terres ingrates'>
+		<ITEM id='a1' text='Uldaman'>
+<![CDATA[<font color='#81a408'><b>Uldaman (Donjon)</b></font><br/><font color='#797c58'>5 joueurs maximum<br/>Niveaux 35-52<br/></font>]]>
+		</ITEM>
+
+		<ITEM id='a2' text='Vallée des crocs'>
+<![CDATA[<font color='#81a408'><b>Vallée des crocs (Neutre)</b></font><br/><font color='#797c58'>Fournitures de forgeron, forge</font>]]>
+		</ITEM>
+
+		<ITEM id='a3' text='Kargath'>
+<![CDATA[<font color='#81a408'><b>Kargath (Horde)</b></font><br/><font color='#797c58'>Auberge, boîte aux lettres, maître de vol, maître des familiers, fournitures générales, fabricant d’armes & d’armures, forge, enclume</font>]]>
+		</ITEM>
+	</FILE>
+
+
+	<FILE filename='eastHillsbrad.swf'  swftitle='Contreforts de Hautebrande'>
+
+		<ITEM id='a1' text='Moulin-de-Tarren'>
+<![CDATA[<font color='#81a408'><b>Moulin-de-Tarren (Horde)</b></font><br/><font color='#797c58'>Auberge, boîte aux lettres, maître de vol, maître des écuries, alchimiste - expert, maître des herboristes, tailleur - maître, cuisinier, fournitures de tailleur, fournitures générales, fournitures d’artisanat, fabricant d’armes, marchand de champignons</font>]]>
+		</ITEM>
+
+		<ITEM id='a2' text='Austrivage'>
+<![CDATA[<font color='#81a408'><b>Austrivage (Alliance)</b></font><br/><font color='#797c58'>Auberge, boîte aux lettres, maître de vol, maître des écuries, maître des pêcheurs, tavernier, fournitures douteuses, fournitures de pêche, marchand de poissons, boucher, fournitures d’artisanat, fournitures générales, excellent fabricant d’armures</font>]]>
+		</ITEM>
+
+		<ITEM id='a3' text='Manoir de Ravenholdt'>
+<![CDATA[<font color='#81a408'><b>Manoir de Ravenholdt (Neutre)</b></font><br/><font color='#797c58'>Ingénieur spécialiste, fournitures douteuses</font>]]>
+		</ITEM>
+
+		<ITEM id='a4' text='Cosmovrille'>
+<![CDATA[<font color='#81a408'><b>Cosmovrille (Neutre)</b></font><br/><font color='#797c58'>Maître de vol, composants et poisons, fabricant d’armes</font>]]>
+		</ITEM>
+
+		<ITEM id='a5' text='Poste de garde du Protectorat'>
+<![CDATA[<font color='#81a408'><b>Poste de garde du Protectorat (Neutre)</b></font><br/><font color='#797c58'>Fournitures générales</font>]]>
+		</ITEM>
+
+		<ITEM id='a6' text='Kirin’Var'>
+<![CDATA[<font color='#81a408'><b>Kirin’Var (Neutre)</b></font><br/><font color='#797c58'>Fournitures de forgeron</font>]]>
+		</ITEM>
+
+		<ITEM id='a7' text='Donjon de la Tempête'>
+<![CDATA[<font color='#81a408'><b>Donjon de la Tempête (Donjon)</b></font><br/><font color='#797c58'><font color='#c49609'>Le Mechanar</font><br/>5 joueurs maximum<br/>Niveau 70<br/>Héroïque : requiert Les Sha'tar -- Révéré<br/><font color='#c49609'>La Botanica</font><br/>5 joueurs maximum<br/>Niveau 70<br/>Héroïque : requiert Les Sha'tar -- Révéré<br/><font color='#c49609'>L’Arcatraz</font><br/>5 joueurs maximum<br/>Niveau 70<br/>Héroïque : requiert Les Sha'tar -- Révéré<br/><font color='#c49609'>The Eye</font><br/>25 joueurs maximum<br/>Niveau 70<br/>U?: 25 ? , 7 ? ð, ?  ?<br/></font>]]>
+		</ITEM>
+	</FILE>
+</CHANNEL>

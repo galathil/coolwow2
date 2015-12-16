@@ -1,0 +1,63 @@
+
+	<CHANNEL>
+
+	<FILE filename="main.swf" swftitle="minimap_outland">
+<ITEM id="w0" text="Raz-de-Néant"/>
+<ITEM id="w1" text="Les Tranchantes"/>
+<ITEM id="w2" text="Marécage de Zangar"/>
+<ITEM id="w3" text="Péninsule des Flammes infernales"/>
+<ITEM id="w4" text="Nagrand"/>
+<ITEM id="w5" text="Forêt de Terokkar"/>
+<ITEM id="w6" text="Vallée d'Ombrelune"/>
+<ITEM id="k0" text="Teldrassil"/>
+<ITEM id="k1" text="Ile de Brume-sang"/>
+<ITEM id="k2" text="Ile de Brume-azur"/>
+<ITEM id="k3" text="Reflet-de-Lune"/>
+<ITEM id="k4" text="Sombrivage"/>
+<ITEM id="k5" text="Gangrebois"/>
+<ITEM id="k6" text="14"/>
+<ITEM id="k7" text="Berceau-de-l'hiver"/>
+<ITEM id="k8" text="Orneval"/>
+<ITEM id="k9" text="Azshara"/>
+<ITEM id="k10" text="Les Serres-Rocheuses"/>
+<ITEM id="k11" text="Les Tarides"/>
+<ITEM id="k12" text="Durotar"/>
+<ITEM id="k13" text="Désolace"/>
+<ITEM id="k14" text="Mulgore"/>
+<ITEM id="k15" text="Marécage d'Âprefange"/>
+<ITEM id="k16" text="Féralas"/>
+<ITEM id="k17" text="Mille pointes"/>
+<ITEM id="k18" text="Silithus"/>
+<ITEM id="k19" text="Cratère d'Un'Goro"/>
+<ITEM id="k20" text="Tanaris"/>
+<ITEM id="d0" text="Bois des chants éternels"/>
+<ITEM id="d1" text="Les Terres fantômes"/>
+<ITEM id="d2" text="31"/>
+<ITEM id="d3" text="Clairières de Tirisfal"/>
+<ITEM id="d4" text="Maleterres de l'ouest"/>
+<ITEM id="d5" text="Maleterres de l'est"/>
+<ITEM id="d6" text="Forêt des Pins argentés"/>
+<ITEM id="d7" text="Montagnes d'Alterac"/>
+<ITEM id="d8" text="Contreforts de Hautebrande"/>
+<ITEM id="d9" text="Les Hinterlands"/>
+<ITEM id="d10" text="Hautes-terres d'Arathi"/>
+<ITEM id="d11" text="40"/>
+<ITEM id="d12" text="Paluns"/>
+<ITEM id="d13" text="42"/>
+<ITEM id="d14" text="Dun Morogh"/>
+<ITEM id="d15" text="Loch Modan"/>
+<ITEM id="d16" text="45"/>
+<ITEM id="d17" text="Gorge des Vents brûlants"/>
+<ITEM id="d18" text="Terres ingrates"/>
+<ITEM id="d19" text="Steppes ardentes"/>
+<ITEM id="d20" text="49"/>
+<ITEM id="d21" text="Forêt d'Elwynn"/>
+<ITEM id="d22" text="les Carmines"/>
+<ITEM id="d23" text="Marche de l'Ouest"/>
+<ITEM id="d24" text="Bois de la Pénombre"/>
+<ITEM id="d25" text="Défilé de Deuillevent"/>
+<ITEM id="d26" text="Marais des Chagrins"/>
+<ITEM id="d27" text="Vallée de Strangleronce"/>
+<ITEM id="d28" text="Terres foudroyées"/>
+</FILE>
+</CHANNEL>

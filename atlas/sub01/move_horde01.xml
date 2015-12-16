@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<CHANNEL>
+	<FILE filename="move_horde.swf" swftitle="move_horde">
+<ITEM id="m0" text="La Foudreflèche"/>
+<ITEM id="m1" text="Bosquet éternel"/>
+<ITEM id="m2" text="Zone 52"/>
+<ITEM id="m3" text="Cosmovrille"/>
+<ITEM id="m4" text="Bastion des Sire-tonnerre"/>
+<ITEM id="m5" text="Mok'Nathal"/>
+<ITEM id="m6" text="Zabra'jin"/>
+<ITEM id="m7" text="Poste du Rat des marais"/>
+<ITEM id="m8" text="Guet de l'épervier"/>
+<ITEM id="m9" text="Thrallmar"/>
+<ITEM id="m10" text="L'escalier du Destin"/>
+<ITEM id="m11" text="Garadar"/>
+<ITEM id="m12" text="Shattrath"/>
+<ITEM id="m13" text="Poste de Brise-échine"/>
+<ITEM id="m14" text="Fort des Brise-pierres"/>
+<ITEM id="m15" text="Village d'Ombrelune"/>
+<ITEM id="m16" text="Autel de Sha'tar"/>
+<ITEM id="m17" text="Sanctum des étoiles"/>
+<ITEM id="l0" text="Reflet-de-Lune"/>
+<ITEM id="l1" text="Long-guet"/>
+<ITEM id="l2" text="Poste de la Vénéneuse"/>
+<ITEM id="l3" text="Avant-poste de Zoram'gar"/>
+<ITEM id="l4" text="Sanctuaire d'émeraude"/>
+<ITEM id="l5" text="Poste de Bois-brisé"/>
+<ITEM id="l6" text="Valormok"/>
+<ITEM id="l7" text="Retraite de Roche-Soleil"/>
+<ITEM id="l8" text="Orgrimmar"/>
+<ITEM id="l9" text="Proie-de-l'Ombre"/>
+<ITEM id="l10" text="Pitons du Tonnerre"/>
+<ITEM id="l11" text="La Croisée"/>
+<ITEM id="l12" text="Cabestan"/>
+<ITEM id="l13" text="Camp Taurajo"/>
+<ITEM id="l14" text="Camp Mojache"/>
+<ITEM id="l15" text="Mur-de-Fougères"/>
+<ITEM id="l16" text="Poste de Librevent"/>
+<ITEM id="l17" text="Fort cénarien"/>
+<ITEM id="l18" text="Refuge des Marshal"/>
+<ITEM id="l19" text="Gadgetzan"/>
+<ITEM id="n0" text="Lune-d'argent"/>
+<ITEM id="n1" text="Tranquillien"/>
+<ITEM id="n2" text="Fossoyeuse"/>
+<ITEM id="n3" text="Chapelle de l'Espoir de Lumière"/>
+<ITEM id="n4" text="Le Sépulcre"/>
+<ITEM id="n5" text="Moulin-de-Tarren"/>
+<ITEM id="n6" text="Trépas-d'Orgrim"/>
+<ITEM id="n7" text="Village des Vengebroches"/>
+<ITEM id="n8" text="Halte du Thorium"/>
+<ITEM id="n9" text="Kargath"/>
+<ITEM id="n10" text="Corniche des flammes"/>
+<ITEM id="n11" text="Pierrèche"/>
+<ITEM id="n12" text="Grom'gol"/>
+<ITEM id="n13" text="Baie-du-Butin"/>
+</FILE>
+</CHANNEL>

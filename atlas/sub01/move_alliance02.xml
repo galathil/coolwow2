@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?> 
+	<CHANNEL>
+	<FILE filename="move_alliance.swf" swftitle="move_alliance">
+<ITEM id="m0" text="L'escalier du Destin"/>
+<ITEM id="m1" text="Rut'theran"/>
+<ITEM id="m2" text="Exodar"/>
+<ITEM id="m3" text="Auberdine"/>
+<ITEM id="m4" text="Cabestan"/>
+<ITEM id="m5" text="Bastion de Pennelune"/>
+<ITEM id="m6" text="Féralas"/>
+<ITEM id="m7" text="Ile de Theramore"/>
+<ITEM id="m8" text="Port de Menethil"/>
+<ITEM id="m9" text="La Porte des ténèbres"/>
+<ITEM id="m10" text="Baie-du-Butin"/>
+</FILE>
+</CHANNEL>
