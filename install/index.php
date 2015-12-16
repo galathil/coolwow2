@@ -1,7 +1,9 @@
 ﻿<?php
-error_reporting(E_ALL & ~E_NOTICE);
-$version = "3.0 Finale";
-$date = "28/11/2009";
+$min_version = '5.5.0'; // min version supported
+
+// error_reporting(E_ALL & ~E_NOTICE);
+// $version = "3.0 Finale";
+// $date = "28/11/2009";
 
 function cryptme($nbr)
 {
@@ -15,176 +17,23 @@ function cryptme($nbr)
 	return $str;
 }
 
-echo "
-<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">
-<html xmlns=\"http://www.w3.org/1999/xhtml\" xml:lang=\"en\" lang=\"en\">
-	<head>
-		<title>Page de configuration</title>
-		<meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\" />
-		<link rel=\"stylesheet\" type=\"text/css\" href=\"../themes/1/style.css\" />
-		<link rel=\"SHORTCUT ICON\" href=\"../images/icon/wow.ico\" />
-	</head>
-	<body>
-		<div id=\"main\">
-		<div id=\"menu\">
-			<div id=\"centre\">
-			</div>
-		</div>
-		<div id=\"logo\"></div>
-		<br /><br />
-		<div id=\"corps\">
-		<table align=\"center\" width=\"80%\">
-			<tr>
-				<td width=\"100%\">
-					<table width=\"100%\" align=\"center\" border=\"0\" cellspacing=\"0\" cellpadding=\"10\">
-						<tr>
-							<td>
-							<table width=\"100%\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" >
-								<tr>
-								  <td width=\"21\"><img src=\"../themes/1/hg.png\" width=\"21\" height=\"21\" ALT=\"hg\" /></td>
-								  <td class=\"hm\" width=\"100%\"></td>
-								  <td width=\"21\"><img src=\"../themes/1/hd.png\" width=\"21\" height=\"21\" ALT=\"hd\" /></td>
-								</tr>
-							</table>
-							<table width=\"100%\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\">
-								<tr>
-									<td class=\"mg\" width=\"12\"></td>
-									<td>
-										<table width=\"100%\" border=\"0\" cellspacing=\"0\" cellpadding=\"10\">
-											<tr>
-												<td class=\"fond\" align=\"left\">";
+
+require_once 'vues/head.php';
+
 switch ($_GET['etape'])
 {
+	// Welcome page
 	default:
-		echo "
-		<h3>Bienvenue sur l'installation de CoolWoW</h3>
-		<p>Avec cette option, il est possible d’installer CoolWoW sur votre serveur, l'installation se déroulera en plusieurs étapes,<br />
-		qui ne modifieront pas les bases de données de jeu, deplus l'installateur créera la base de donnée.</p>
-		<p>Pour cela, vous aurez besoin des paramètres de connexion à votre base de données. Si vous ne les connaissez pas, contactez votre fournisseur d’hébergement pour les lui demander. Vous ne pourrez pas continuer l’installation sans les paramètres suivants:<br /><br />
-		- <b>Le type de votre base de données.<br />
-		- L’adresse du serveur de votre base de données.<br />
-	    - Le port du serveur de votre base de données.<br />
-	    - Le nom de votre base de données.<br />
-	    - Le login et le mot de passe d’accès à votre base de données.</b></p>
-		<p>
-		A l'étape suivante un certain nombre de pré-requis seront demandés,<br />
-		si il ne sont pas remplis l'installation ne poura pas continué !
-		</p>
-		<p>
-			<form action=\"index.php?etape=1\" method=\"post\">
-				<center>
-					<input type=\"submit\" name=\"config\" value=\"Etape suivante\">
-				</center>
-			</form>
-		</p>";
+		require_once 'vues/step_0.php';
 	break;
+
+	// Checking php compatibility
 	case "1":
-		echo "
-			<h3>Compatibilité de l’installation</h3>
-			<fieldset>
-				<legend align=top>Version de PHP et paramètres</legend>
-					Votre version de PHP doit être la 5.0.0 au minimum: ";
-					$php_version = PHP_VERSION;
-					if($php_version == "5.3.0")
-					{
-						echo "<strong style='color:green'> OUI</strong>";
-					}
-					else
-					{
-						if (version_compare($php_version, '5.0.0') < 0)
-						{
-							echo '<strong style="color:red"> NON</strong>';
-						}
-						else
-						{
-							$passed['php'] = true;
-							// We also give feedback on whether we're running in safe mode
-							echo '<strong style="color:green"> OUI';
-							if (@ini_get('safe_mode') == '1' || strtolower(@ini_get('safe_mode')) == 'on')
-							{
-								echo 'PHP_SAFE_MODE';
-							}
-							echo '</strong>';
-						}
-						echo "<br /><br />";
-						echo "Le paramètre PHP register_globals est désactivé :";
-							if (@ini_get('register_globals') == '1' || strtolower(@ini_get('register_globals')) == 'on')
-							{
-								echo '<strong style="color:red"> NON</strong>';
-							}
-							else
-							{
-								echo '<strong style="color:green"> OUI</strong>';
-							}
-						echo "<br />
-						CoolWoW ne fonctionne pas si ce paramètre est activé,<br />
-						mais si possible, les register_globals doivent etre désactivé pour des raisons de sécurité.<br />";
-					}
-					echo "<br />";
-					echo "Le paramètre d'affichage des erreurs est bien configuré :";
-					$test = ini_get('error_reporting');
-					if ($test == '6135')
-					{
-						echo '<strong style="color:green"> OUI</strong>';	
-					}
-					else
-					{
-						echo '<strong style="color:red"> NON</strong>';
-					}
-			echo "</fieldset><br />
-			<fieldset>
-				<legend align=top>Extensions PHP</legend>
-				Support de la librairie graphique GD [ Confirmation visuelle ]:";
-				//test GD
-				if (@extension_loaded('gd') || @extension_loaded('gd2')) 
-				{
-					echo '<strong style="color:green"> OUI</strong>';
-					
-				}
-				else
-				{
-					echo '<strong style="color:red"> NON</strong>';
-				}	
-			echo "</fieldset><br />
-			<fieldset>
-				<legend align=top>Module Apache</legend>
-				Réécriture d'URL (optionel):";
-				//test GD
-				function module_enabled($name) 
-				{
-				    return function_exists('apache_get_modules') && in_array($name, apache_get_modules());
-				}
-				if (@module_enabled('mod_rewrite')) 
-				{
-					echo '<strong style="color:green"> OUI</strong>';
-				}
-				else
-				{
-					echo '<strong style="color:red"> NON</strong>';
-				}	
-			echo "</fieldset><br />";
-			if(@version_compare($php_version, '5.0.0') < 0 || @ini_get('register_globals') == '1' || strtolower(@ini_get('register_globals')) == 'on' || $test != '6135')
-			{
-				echo "<h4 class=\"center\">Un des pré-requis n'est pas réspecté !!!</h4>";
-			}
-			else
-			{
-				if (@extension_loaded('gd') || @extension_loaded('gd2')) 
-				{
-					echo "<p>
-						<form action=\"index.php?etape=2\" method=\"post\">
-							<center>
-								<input type=\"submit\" name=\"config\" value=\"Commencer l'installation\">
-							</center>
-						</form>
-					</p>";
-				}
-				else
-				{
-					echo "<h4 class=\"center\">Un des pré-requis n'est pas réspecté !!!</h4>";
-				}
-			}
-			
+		$b_min_version = version_compare(PHP_VERSION, $min_version) >= 0 ? true : false;
+		$b_register_globals_disabled = ini_get('register_globals')==false || (ini_get('register_globals')==true && ini_get('register_globals')!='1') ? true : false;
+		$b_lib_gd = extension_loaded('gd') || extension_loaded('gd2') ? true : false;
+		$b_rewrite_module = in_array('mod_rewrite', apache_get_modules()) ? true : false;
+		require_once 'vues/step_1.php';
 	break;
 	case "2":
 		echo "
@@ -832,31 +681,4 @@ $titre_chatbox = "Bienvenue sur la ChatBox";
 		<?php
 	break;
 }
-echo "</td>
-												</tr>
-											</table>
-										</td>	
-										<td class=\"md\" width=\"11\"></td>
-									</tr>
-									<tr>
-									  <td width=\"21\"><img src=\"../themes/1/bg.png\" width=\"21\" height=\"21\" ALT=\"bg\" /></td>
-									  <td class=\"bm\"></td>
-									  <td width=\"21\"><img src=\"../themes/1/bd.png\" width=\"21\" height=\"21\" ALT=\"bd\" /></td>
-									</tr>
-								</table>
-								</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>";
-$date = date("Y");
-			echo "<div id=\"footer\">
-				Optimisé pour Mozilla Firefox avec une résolution de 1280 x 1024.<br /><br />
-				Copyright ©2007-$date, <a class=\"footer\" href=\"http://www.coolxp.fr\">CiRvEnT</a><br /><br />
-				Les images sont propriétées de ©Blizzard Entertainment.<br /><br />
-			</div>
-		</div>
-	</body>
-</html>";
-?>
+require_once 'vues/foot.php';
